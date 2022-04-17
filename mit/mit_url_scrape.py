@@ -37,6 +37,7 @@ def get_urls():
   ##### Extract Reddit URLs #####
   urls = []
   soup = BeautifulSoup(driver.page_source, "html.parser")
+  driver.close()
   for parent in soup.find_all("article"):
       title = parent.find("div", class_="course-title")
       a_tag = title.find("a")
