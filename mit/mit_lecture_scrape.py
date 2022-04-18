@@ -1,11 +1,10 @@
 import pickle
 import json
 import requests
-import time
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
+
+BASE_URL = "https://ocw.mit.edu"
 
 def extract_string(soup_element):
   return soup_element.string.strip()
@@ -24,9 +23,8 @@ def get_lecture_info():
     title = soup.find(id="course-banner").find('a').string
     description = soup.find(id="course-description").string
     
-    base = "https://ocw.mit.edu"
     link = soup.find("img", class_="course-image").attrs['src']
-    thumbnail_url = urljoin(base, link)
+    thumbnail_url = urljoin(BASE_URL, link)
 
     instructors = list(map(extract_string, soup.find_all("a", class_="course-info-instructor")))
     instructors = list(dict.fromkeys(instructors))  # process duplication
@@ -38,6 +36,7 @@ def get_lecture_info():
     institute = "Massachusetts Institute of Technology"
     
     lectures.append({
+      "lectureIdx": idx,
       "title": title,
       "instructors": instructors,
       "topics": topics,
@@ -51,3 +50,4 @@ def get_lecture_info():
     
   with open("./mit/mit_lectures.json", 'w') as d:
     json.dump(lectures, d)
+

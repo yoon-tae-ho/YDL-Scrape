@@ -1,5 +1,6 @@
 [
   {
+    "lectureIdx": 0,
     "title": "Mathematical Methods for Engineers II",
     "instructors": ["Prof. Gilbert Strang"],
     "topics": [
@@ -18,6 +19,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/fc63428cc87099845fc54fbf63770e86_18-086s06.jpg"
   },
   {
+    "lectureIdx": 1,
     "title": "Blockchain and Money",
     "instructors": ["Prof. Gary Gensler"],
     "topics": [
@@ -37,6 +39,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/bb820e6651426bde62c060277dfbb042_15-S12F18.jpg"
   },
   {
+    "lectureIdx": 2,
     "title": "Finance Theory I",
     "instructors": ["Prof. Andrew Lo"],
     "topics": [
@@ -53,6 +56,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/5ec2e66e89b03d5c5c7806672a26167e_15-401f08.jpg"
   },
   {
+    "lectureIdx": 3,
     "title": "Information Technology as an Integrating Force in Manufacturing",
     "instructors": ["Prof. Brian Subirana"],
     "topics": ["Business", "Information Technology", "Operations Management"],
@@ -63,6 +67,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/789bdc295d5ff9dc22f1639cb3023551_15-566s03.jpg"
   },
   {
+    "lectureIdx": 4,
     "title": "Statistics for Applications ",
     "instructors": ["Prof. Philippe Rigollet"],
     "topics": ["Mathematics", "Probability and Statistics"],
@@ -73,6 +78,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/de1506da626801272f3f35bb8412e638_18-650f16.jpg"
   },
   {
+    "lectureIdx": 5,
     "title": "Multivariable Calculus",
     "instructors": ["Prof. Denis Auroux"],
     "topics": [
@@ -88,6 +94,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/78c8aad99135431364661fa7434333e2_18-02f07.jpg"
   },
   {
+    "lectureIdx": 6,
     "title": "Single Variable Calculus",
     "instructors": ["Prof. David Jerison"],
     "topics": ["Mathematics", "Calculus", "Differential Equations"],
@@ -98,6 +105,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/24c4a7d9cd569a82ef34a8563e50add8_18-01f06.jpg"
   },
   {
+    "lectureIdx": 7,
     "title": "Seminar in Historical Methods",
     "instructors": ["Prof. Anne McCants"],
     "topics": [
@@ -114,6 +122,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2004/d12bd9fbc1d02f4389f68e047c1f4ceb_21h-931s04.jpg"
   },
   {
+    "lectureIdx": 8,
     "title": "Architecture Studio: Building in Landscapes",
     "instructors": ["Prof. Jan Wampler"],
     "topics": [
@@ -129,6 +138,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/4-125-architecture-studio-building-in-landscapes-fall-2002/f83ae2cf0d90b155781c3825100491da_4-125f02.jpg"
   },
   {
+    "lectureIdx": 9,
     "title": "Psychology and Economics",
     "instructors": ["Prof. Frank Schilbach"],
     "topics": ["Social Science", "Economics", "Psychology"],
@@ -139,6 +149,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/14-13-psychology-and-economics-spring-2020/54c907ff4b73578998347a493375ad0c_14-13s20.jpg"
   },
   {
+    "lectureIdx": 10,
     "title": "Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon",
     "instructors": [
       "David Damm-Luhr",
@@ -169,6 +180,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/6c42c4fa9fd610ae5240d92dacf971a5_res-env-001iap17.jpg"
   },
   {
+    "lectureIdx": 11,
     "title": "SCUBA",
     "instructors": ["Prof. Halston Taylor"],
     "topics": ["Health and Medicine", "Physical Education and Recreation"],
@@ -179,6 +191,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/6b45d9859e5da887fd7b263e80da3f0e_pe-210s07.jpg"
   },
   {
+    "lectureIdx": 12,
     "title": "Innovation Systems for Science, Technology, Energy, Manufacturing, and Health",
     "instructors": ["William Bonvillian"],
     "topics": [
@@ -196,6 +209,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/9ae6895d9c36f212a37890131aeeb259_sts-081js17.JPG"
   },
   {
+    "lectureIdx": 13,
     "title": "Introduction to Algorithms (SMA 5503)",
     "instructors": ["Prof. Charles Leiserson", "Prof. Erik Demaine"],
     "topics": [
@@ -210,6 +224,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/f79f55df6aae6289ed44a7170e19acd0_6-046jf05.jpg"
   },
   {
+    "lectureIdx": 14,
     "title": "Probabilistic Systems Analysis and Applied Probability",
     "instructors": ["Prof. John Tsitsiklis"],
     "topics": [
@@ -226,6 +241,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/cfc114d5c85a0a7c7be2f638d18851ca_6-041f10.jpg"
   },
   {
+    "lectureIdx": 15,
     "title": "Introduction to EECS II: Digital Communication Systems",
     "instructors": ["Prof. Hari Balakrishnan", "Prof. George Verghese"],
     "topics": [
@@ -244,6 +260,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/b2c2937f360b27a0d80099dc9fec7b8b_6-02f12.jpg"
   },
   {
+    "lectureIdx": 16,
     "title": "Principles of Digital Communication II",
     "instructors": ["Prof. David Forney"],
     "topics": [
@@ -259,6 +276,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-451-principles-of-digital-communication-ii-spring-2005/26272a054def6c3695d7d2ef7435104d_6-451s05.jpg"
   },
   {
+    "lectureIdx": 17,
     "title": "Introduction to the Visual Arts",
     "instructors": ["Prof. Joe Zane"],
     "topics": ["Fine Arts", "Visual Arts"],
@@ -269,6 +287,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/4-301-introduction-to-the-visual-arts-spring-2007/b419a6abe5137c9464d6b81395ae0b11_4-301s07.jpg"
   },
   {
+    "lectureIdx": 18,
     "title": "Quantum Physics III",
     "instructors": ["Prof. Barton Zwiebach"],
     "topics": [
@@ -284,6 +303,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/7e06e41aca118a296f881bd3c53a520f_8-06s18.jpg"
   },
   {
+    "lectureIdx": 19,
     "title": "Introduction to Nuclear and Particle Physics",
     "instructors": ["Prof. Markus  Klute"],
     "topics": ["Science", "Physics", "Nuclear Physics", "Particle Physics"],
@@ -294,6 +314,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/ab26e5922052acb98b149656576487f4_8-701f20.jpg"
   },
   {
+    "lectureIdx": 20,
     "title": "Introduction to Neural Computation",
     "instructors": ["Prof. Michale Fee", "Daniel Zysman"],
     "topics": [
@@ -316,6 +337,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/45e32c888216f65a9424be2d8e80c3ba_9-40s18.jpg"
   },
   {
+    "lectureIdx": 21,
     "title": "Computer Systems Security",
     "instructors": ["Prof. Nickolai Zeldovich"],
     "topics": [
@@ -331,6 +353,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/90716014a03171bde18bc7138884136c_6-858f14.jpg"
   },
   {
+    "lectureIdx": 22,
     "title": "How to Develop \"Breakthrough\" Products and Services",
     "instructors": ["Prof. Eric von Hippel"],
     "topics": [
@@ -349,6 +372,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/b752b33951623ddf62664ec89412aae9_15-356s04.jpg"
   },
   {
+    "lectureIdx": 23,
     "title": "Information Technology as an Integrating Force in Manufacturing",
     "instructors": ["Prof. Brian Subirana"],
     "topics": ["Business", "Information Technology", "Operations Management"],
@@ -359,6 +383,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/789bdc295d5ff9dc22f1639cb3023551_15-566s03.jpg"
   },
   {
+    "lectureIdx": 24,
     "title": "Control of Manufacturing Processes (SMA 6303)",
     "instructors": ["Prof. David Hardt", "Prof. Duane Boning"],
     "topics": [
@@ -379,6 +404,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/c4ed2a9caafe774be2fcf2d8985b872d_2-830js08.jpg"
   },
   {
+    "lectureIdx": 25,
     "title": "Feeling and Imagination in Art, Science, and Technology",
     "instructors": ["Prof. Irving Singer"],
     "topics": [
@@ -397,6 +423,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/b728ae0a3938a1c23b954899dabfa996_24-262s04.jpg"
   },
   {
+    "lectureIdx": 26,
     "title": "Philosophy of Love in the Western World",
     "instructors": ["Prof. Irving Singer"],
     "topics": ["Humanities", "Literature", "Philosophy"],
@@ -407,6 +434,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/24-261-philosophy-of-love-in-the-western-world-fall-2004/19f09fe520ee2a990e8379ad4d232b52_24-261f04.jpg"
   },
   {
+    "lectureIdx": 27,
     "title": "Fundamentals of Photovoltaics",
     "instructors": ["Prof. Tonio Buonassisi"],
     "topics": [
@@ -433,6 +461,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/18a4814f0b288b043938e002722e19b4_2-627f13.jpg"
   },
   {
+    "lectureIdx": 28,
     "title": "Writing in Tonal Forms II",
     "instructors": ["Prof. Charles Shadle"],
     "topics": [
@@ -449,6 +478,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21m-304-writing-in-tonal-forms-ii-spring-2009/1df0c487aead3c48ffb4cf9fe70bc589_21m-304s09.jpg"
   },
   {
+    "lectureIdx": 29,
     "title": "Composing for Jazz Orchestra",
     "instructors": ["Dr. Mark Harvey"],
     "topics": [
@@ -465,6 +495,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/1e85cde7e6f028195580be56c5d48f93_21m-342f08.jpg"
   },
   {
+    "lectureIdx": 30,
     "title": "Computer Systems Security",
     "instructors": ["Prof. Nickolai Zeldovich"],
     "topics": [
@@ -480,6 +511,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/90716014a03171bde18bc7138884136c_6-858f14.jpg"
   },
   {
+    "lectureIdx": 31,
     "title": "Atomistic Computer Modeling of Materials (SMA 5107)",
     "instructors": ["Prof. Gerbrand Ceder", "Prof. Nicola Marzari"],
     "topics": [
@@ -500,6 +532,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/e03cdfdf29c927bbd8762a2e8132e4c1_3-320s05.jpg"
   },
   {
+    "lectureIdx": 32,
     "title": "Introduction to Nuclear and Particle Physics",
     "instructors": ["Prof. Markus  Klute"],
     "topics": ["Science", "Physics", "Nuclear Physics", "Particle Physics"],
@@ -510,6 +543,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/ab26e5922052acb98b149656576487f4_8-701f20.jpg"
   },
   {
+    "lectureIdx": 33,
     "title": "Introduction to Neural Computation",
     "instructors": ["Prof. Michale Fee", "Daniel Zysman"],
     "topics": [
@@ -532,6 +566,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/45e32c888216f65a9424be2d8e80c3ba_9-40s18.jpg"
   },
   {
+    "lectureIdx": 34,
     "title": "Music and Technology (Contemporary History and Aesthetics)",
     "instructors": ["Prof. Christopher Ariza"],
     "topics": [
@@ -549,6 +584,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/6e51158e51681200dbec82e20a4a9a41_21m-380f09.jpg"
   },
   {
+    "lectureIdx": 35,
     "title": "Special Topics in Mechanical Engineering: The Art and Science of Boat Design",
     "instructors": [
       "Christopher Dewart",
@@ -570,6 +606,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/7bc5155780b293a6bc5a37c8d0911886_2-993iap07.jpg"
   },
   {
+    "lectureIdx": 36,
     "title": "Principles of Digital Communication II",
     "instructors": ["Prof. David Forney"],
     "topics": [
@@ -585,6 +622,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-451-principles-of-digital-communication-ii-spring-2005/26272a054def6c3695d7d2ef7435104d_6-451s05.jpg"
   },
   {
+    "lectureIdx": 37,
     "title": "Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra",
     "instructors": ["Prof. Herbert Gross"],
     "topics": [
@@ -600,6 +638,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/948b2075b983fdf29b8518199e5db13c_res-18-008f11.jpg"
   },
   {
+    "lectureIdx": 38,
     "title": "Innovation Systems for Science, Technology, Energy, Manufacturing, and Health",
     "instructors": ["William Bonvillian"],
     "topics": [
@@ -617,6 +656,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/9ae6895d9c36f212a37890131aeeb259_sts-081js17.JPG"
   },
   {
+    "lectureIdx": 39,
     "title": "SCUBA",
     "instructors": ["Prof. Halston Taylor"],
     "topics": ["Health and Medicine", "Physical Education and Recreation"],
@@ -627,6 +667,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/6b45d9859e5da887fd7b263e80da3f0e_pe-210s07.jpg"
   },
   {
+    "lectureIdx": 40,
     "title": "Atomistic Computer Modeling of Materials (SMA 5107)",
     "instructors": ["Prof. Gerbrand Ceder", "Prof. Nicola Marzari"],
     "topics": [
@@ -647,6 +688,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/e03cdfdf29c927bbd8762a2e8132e4c1_3-320s05.jpg"
   },
   {
+    "lectureIdx": 41,
     "title": "Teaching College-Level Science and Engineering",
     "instructors": ["Sanjoy Mahajan"],
     "topics": [
@@ -663,6 +705,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/bf4f6bc7e2bc1f6a4dc237936a53e4fa_5-95js09.jpg"
   },
   {
+    "lectureIdx": 42,
     "title": "Autism Theory and Technology",
     "instructors": ["Prof. Rosalind W. Picard", "Dr. Matthew Goodwin"],
     "topics": [
@@ -683,6 +726,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/d82a1ef249729b363656ab3592ad09ef_mas-771s11.jpg"
   },
   {
+    "lectureIdx": 43,
     "title": "Development Economics: Macroeconomics",
     "instructors": ["Prof. Robert M. Townsend"],
     "topics": [
@@ -700,6 +744,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/14-772-development-economics-macroeconomics-spring-2013/c394de3ba76d9c2de7b5645fcec20c89_14-772s13.jpg"
   },
   {
+    "lectureIdx": 44,
     "title": "Numerical Methods Applied to Chemical Engineering",
     "instructors": ["Prof. William Green, Jr.", "Prof. James W. Swan"],
     "topics": [
@@ -719,6 +764,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/a76b08480d431902ca6c0f4873fbc0dc_10-34f15-1.jpg"
   },
   {
+    "lectureIdx": 45,
     "title": "Community-Owned Enterprise and Civic Participation",
     "instructors": ["Prof. J. Phillip Thompson"],
     "topics": [
@@ -738,6 +784,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/91fe0dcb812ac63d8a563147a3379e8a_11-954s05.jpg"
   },
   {
+    "lectureIdx": 46,
     "title": "Sensing Place: Photography as Inquiry",
     "instructors": ["Prof. Anne Whiston Spirn"],
     "topics": [
@@ -757,6 +804,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/11-309j-sensing-place-photography-as-inquiry-fall-2012/cb6820fd7e585e3e471fc7da64369639_11-309jf12.jpg"
   },
   {
+    "lectureIdx": 47,
     "title": "Introduction to Bioengineering (BE.010J)",
     "instructors": [
       "Prof. Douglas Lauffenburger",
@@ -780,6 +828,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/dbaac34b8f80d8fb3a3c315ae06e4865_20-010js06.jpg"
   },
   {
+    "lectureIdx": 48,
     "title": "Reducing the Danger of Nuclear Weapons and Proliferation",
     "instructors": ["Aron M Bernstein", "Vipin Narang"],
     "topics": [
@@ -804,6 +853,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/48f6e3f8258a0efdf044cb2a5794790c_res-8-004iap15.jpg"
   },
   {
+    "lectureIdx": 49,
     "title": "The Production of Space: Art, Architecture and Urbanism in Dialogue",
     "instructors": ["Prof. Ute Meta Bauer"],
     "topics": [
@@ -821,6 +871,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/8a3fa466a21d7f44621d53b43f0f73c4_4-303f06.jpg"
   },
   {
+    "lectureIdx": 50,
     "title": "Nuts and Bolts of Business Plans",
     "instructors": ["Joseph Hadzima"],
     "topics": [
@@ -837,6 +888,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/5d678a4444544691af4c007574815543_15-s21iap14.jpg"
   },
   {
+    "lectureIdx": 51,
     "title": "Topics in Mathematics with Applications in Finance",
     "instructors": [
       "Dr. Peter Kempthorne",
@@ -858,6 +910,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/bb7de7f57ac6a5938118fc237a68d2b7_18-s096f13.jpg"
   },
   {
+    "lectureIdx": 52,
     "title": "Linear Algebra",
     "instructors": ["Prof. Gilbert Strang"],
     "topics": ["Mathematics", "Linear Algebra"],
@@ -868,6 +921,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/862a5bbedf159572528b0f0766d1e611_18-06s10.jpg"
   },
   {
+    "lectureIdx": 53,
     "title": "Graph Theory and Additive Combinatorics",
     "instructors": ["Prof. Yufei Zhao"],
     "topics": [
@@ -883,6 +937,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/4d718c615212994b720bf5ac6d4d5c0f_18-217f19.jpg"
   },
   {
+    "lectureIdx": 54,
     "title": "Atomic and Optical Physics II",
     "instructors": ["Prof. Wolfgang Ketterle"],
     "topics": ["Science", "Physics", "Atomic, Molecular, Optical Physics"],
@@ -893,6 +948,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-422-atomic-and-optical-physics-ii-spring-2013/9e0e7b0a495fa128b8bac270422677a4_8-422s13.jpg"
   },
   {
+    "lectureIdx": 55,
     "title": "Physics III: Vibrations and Waves",
     "instructors": ["Prof. Yen-Jie Lee"],
     "topics": [
@@ -909,6 +965,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/05c7b1fd95fc1100e7528e7f1a0a2a2b_8-03scf16.jpg"
   },
   {
+    "lectureIdx": 56,
     "title": "Geometric Folding Algorithms: Linkages, Origami, Polyhedra",
     "instructors": ["Prof. Erik Demaine"],
     "topics": [
@@ -927,6 +984,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/f34024b4a6e0408be2f1bad03292c841_6-849f12.jpg"
   },
   {
+    "lectureIdx": 57,
     "title": "The Early Universe",
     "instructors": ["Prof. Alan Guth"],
     "topics": ["Science", "Physics", "Astrophysics", "Theoretical Physics"],
@@ -937,6 +995,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-286-the-early-universe-fall-2013/6048b3f78009b55a0e0ed59426799317_8-286f13.jpg"
   },
   {
+    "lectureIdx": 58,
     "title": "Introduction to Solid State Chemistry",
     "instructors": ["Prof. Jeffrey Grossman"],
     "topics": [
@@ -953,6 +1012,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/1bd0528076c75313960844cd7028ab92_mit3-091f18.jpg"
   },
   {
+    "lectureIdx": 59,
     "title": "Creating Video Games",
     "instructors": [
       "Philip B. Tan",
@@ -978,6 +1038,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/68be269a8890549108049836924a39b2_cms-611jf14.jpg"
   },
   {
+    "lectureIdx": 60,
     "title": "Speak Italian With Your Mouth Full",
     "instructors": ["Dr. Paola Rebusco", "Graham Gordon Ramsay"],
     "topics": [
@@ -994,6 +1055,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d0dde8482e079ce6210132b295d34fa3_es-s41s12.jpg"
   },
   {
+    "lectureIdx": 61,
     "title": "Fundamentals of Biology",
     "instructors": [
       "Prof. Eric Lander",
@@ -1012,6 +1074,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/533499c2943939be949d7aed93782793_7-01scf11.jpg"
   },
   {
+    "lectureIdx": 62,
     "title": "Theory of City Form",
     "instructors": ["Prof. Julian Beinart"],
     "topics": [
@@ -1030,6 +1093,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/4-241j-theory-of-city-form-spring-2013/121f278b7066ebae182261855776df1e_4-241js13.jpg"
   },
   {
+    "lectureIdx": 63,
     "title": "Introduction To MATLAB Programming",
     "instructors": ["Yossi Farjoun"],
     "topics": [
@@ -1048,6 +1112,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/f5e3d4a851671a690f037c1f6e91abf9_18-s997f11.jpg"
   },
   {
+    "lectureIdx": 64,
     "title": "Listening, Speaking, and Pronunciation",
     "instructors": ["Isaiah WonHo Yoo"],
     "topics": ["Humanities", "Language", "English as a Second Language"],
@@ -1058,6 +1123,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21g-223-listening-speaking-and-pronunciation-fall-2004/781c0167b8ca5112ea481d2f9836a2e9_21g-223f04.gif"
   },
   {
+    "lectureIdx": 65,
     "title": "Principles of Microeconomics",
     "instructors": ["Prof. Jonathan Gruber"],
     "topics": ["Social Science", "Economics", "Microeconomics"],
@@ -1068,6 +1134,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/4aca9caa520d6e6ce06d163f4c3ba7f8_14-01scf11.jpg"
   },
   {
+    "lectureIdx": 66,
     "title": "Shaping the Future of Work (15.662x)",
     "instructors": ["Prof. Thomas A. Kochan"],
     "topics": [
@@ -1087,6 +1154,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/a55670dbf5fc5344ca7164f239ab901a_res-15-003s16.jpg"
   },
   {
+    "lectureIdx": 67,
     "title": "Introduction to Computer Science and Programming",
     "instructors": ["Prof. John Guttag"],
     "topics": ["Engineering", "Computer Science"],
@@ -1097,6 +1165,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/150f1db23890c18ca7b3bdea6d64be88_6-00scf11.jpg"
   },
   {
+    "lectureIdx": 68,
     "title": "Lean Enterprise en Espa\u00c3\u00b1ol",
     "instructors": [
       "Earll Murman",
@@ -1118,6 +1187,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/f39077c65e71361964e2f2ffaa061426_res-16-001iap2012.jpg"
   },
   {
+    "lectureIdx": 69,
     "title": "Nuclear Engineering: Science, Systems and Society",
     "instructors": [
       "Dr. Marina Dang",
@@ -1140,6 +1210,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/1ef47499189cef79995e0dfa7138fb35_22-011s20.jpg"
   },
   {
+    "lectureIdx": 70,
     "title": "Electrical, Optical, and Magnetic Materials and Devices",
     "instructors": ["Prof. Caroline Ross"],
     "topics": [
@@ -1159,6 +1230,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020/72b711e7f3cdf09f163c3af6327c1633_MIT3-15x.jpg"
   },
   {
+    "lectureIdx": 71,
     "title": "Structure of Materials",
     "instructors": ["Prof. Silvija Gradecak"],
     "topics": ["Engineering", "Materials Science and Engineering"],
@@ -1169,6 +1241,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-012sx-structure-of-materials-spring-2019/0a515ca484bae72371cd7160c367f1e3_MIT3.012Sx.jpg"
   },
   {
+    "lectureIdx": 72,
     "title": "Workshop on Deliberative Democracy and Dispute Resolution",
     "instructors": [
       "Prof. Carrie Menkel-Meadow",
@@ -1193,6 +1266,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/8105d6a6f77c14ba2abb9d42e0675cc8_11-969su05.jpg"
   },
   {
+    "lectureIdx": 73,
     "title": "Introductory Biology",
     "instructors": [
       "Prof. Barbara Imperiali",
@@ -1219,6 +1293,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/7518d9c8111daaf0764e4675f60e04ed_7-016f18.jpg"
   },
   {
+    "lectureIdx": 74,
     "title": "Introduction to Solid State Chemistry",
     "instructors": ["Prof. Donald Sadoway"],
     "topics": [
@@ -1235,6 +1310,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/ddf384aecab5bc43975190d715fefe91_3-091scf10.jpg"
   },
   {
+    "lectureIdx": 75,
     "title": "Digital Signal Processing",
     "instructors": ["Prof. Alan V. Oppenheim"],
     "topics": [
@@ -1250,6 +1326,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/1330ee36bc695d9979be47aea3298576_res-6-008s11.jpg"
   },
   {
+    "lectureIdx": 76,
     "title": "How to Win at Texas Hold'em Poker",
     "instructors": ["Will Ma"],
     "topics": ["Mathematics", "Probability and Statistics"],
@@ -1260,6 +1337,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/64244208708d59729ad2d6eaf4aca647_15-s50iap16.jpg"
   },
   {
+    "lectureIdx": 77,
     "title": "The Analytics Edge",
     "instructors": ["Prof. Dimitris Bertsimas"],
     "topics": [
@@ -1276,6 +1354,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/64a9c191dbc2c2d349db7f00f49cfcd2_MIT15-071S17.jpg"
   },
   {
+    "lectureIdx": 78,
     "title": "Computational Science and Engineering I",
     "instructors": ["Prof. Gilbert Strang"],
     "topics": [
@@ -1294,6 +1373,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/bb0c0ca940d1039808d65232bc727196_18-085f08.jpg"
   },
   {
+    "lectureIdx": 79,
     "title": "Single Variable Calculus",
     "instructors": ["Prof. David Jerison"],
     "topics": ["Mathematics", "Calculus", "Differential Equations"],
@@ -1304,6 +1384,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg"
   },
   {
+    "lectureIdx": 80,
     "title": "The Politics of Reconstructing Iraq",
     "instructors": ["Prof. Yosef Jabareen"],
     "topics": [
@@ -1326,6 +1407,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/c4fb913723275a17d56b03209d0478c3_11-948s05.jpg"
   },
   {
+    "lectureIdx": 81,
     "title": "Nonlinear Programming",
     "instructors": ["Prof. Robert Freund"],
     "topics": [
@@ -1342,6 +1424,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-084j-nonlinear-programming-spring-2004/ff0e11d61d4bc1f349c5671287716c25_15-084jf04.jpg"
   },
   {
+    "lectureIdx": 82,
     "title": "Springfield Studio",
     "instructors": ["Prof. Ceasar McDowell", "Prof. Karl Seidman"],
     "topics": [
@@ -1363,6 +1446,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/11-945-springfield-studio-fall-2005/e420eaaf58e19c80bdf8d270a4312373_11-945f05.jpg"
   },
   {
+    "lectureIdx": 83,
     "title": "DV Lab: Documenting Science Through Video and New Media",
     "instructors": ["Prof. Christine Walley", "Chris Boebel"],
     "topics": [
@@ -1382,6 +1466,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/0e4f4a9f190db492a6890d5dc8539cf1_21a-550jf12.jpg"
   },
   {
+    "lectureIdx": 84,
     "title": "Darwin and Design",
     "instructors": ["Prof. James Paradis"],
     "topics": [
@@ -1401,6 +1486,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2010/6991124f0da63e0b805e876b60d9d077_21l-448jf10.jpg"
   },
   {
+    "lectureIdx": 85,
     "title": "Dynamic Leadership: Using Improvisation in Business",
     "instructors": ["Prof. Lakshmi Balachandra"],
     "topics": [
@@ -1418,6 +1504,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/f234d7e6cfdcb3a840c9b2c73a91d11a_15-969f04.jpg"
   },
   {
+    "lectureIdx": 86,
     "title": "Film as Visual and Literary Mythmaking",
     "instructors": ["Prof. Irving Singer"],
     "topics": [
@@ -1435,6 +1522,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/24-264-film-as-visual-and-literary-mythmaking-fall-2005/17132134704e4927bb783966e84880fe_24-264f05.jpg"
   },
   {
+    "lectureIdx": 87,
     "title": "Nano-to-Macro Transport Processes",
     "instructors": ["Prof. Gang Chen"],
     "topics": [
@@ -1454,6 +1542,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/2-57-nano-to-macro-transport-processes-spring-2012/8e9a0b217b3fd7ff26c22985b770de69_2-57s12.jpg"
   },
   {
+    "lectureIdx": 88,
     "title": "Interrogative Design Workshop",
     "instructors": ["Prof. Krzysztof Wodiczko"],
     "topics": ["Fine Arts", "Art History", "Media Studies", "Visual Arts"],
@@ -1464,6 +1553,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/4-370-interrogative-design-workshop-fall-2005/768958767e6302f3e2a1365ab738d72e_4-370f05.jpg"
   },
   {
+    "lectureIdx": 89,
     "title": "Physical Chemistry",
     "instructors": ["Prof. Robert Field"],
     "topics": ["Science", "Chemistry", "Physical Chemistry"],
@@ -1474,6 +1564,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/aac3f83963cf867b65f821a0fa92829b_5-61f17.JPG"
   },
   {
+    "lectureIdx": 90,
     "title": "Biological Chemistry II",
     "instructors": ["Prof. Joanne Stubbe", "Prof. Elizabeth Nolan"],
     "topics": [
@@ -1490,6 +1581,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-08j-biological-chemistry-ii-spring-2016/ca743816abd0bff648c7ead87a38d087_5-08js16.jpg"
   },
   {
+    "lectureIdx": 91,
     "title": "Introduction to Computational Thinking and Data Science",
     "instructors": ["Prof. Eric Grimson", "Prof. John Guttag", "Dr. Ana Bell"],
     "topics": [
@@ -1505,6 +1597,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/d9b969b1e9e2029d7e9b9e2c9324dde4_6-0002f16.jpg"
   },
   {
+    "lectureIdx": 92,
     "title": "Circuits and Electronics",
     "instructors": ["Prof. Anant Agarwal"],
     "topics": ["Engineering", "Electrical Engineering", "Electronics"],
@@ -1515,6 +1608,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/057c5af7b1e9cccd3b069dfe3797a5c8_6-002s07.jpg"
   },
   {
+    "lectureIdx": 93,
     "title": "Computation Structures",
     "instructors": ["Chris Terman"],
     "topics": [
@@ -1531,6 +1625,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/3a6d35b0390ffb5180ed20f5fadd63db_6-004S17.jpg"
   },
   {
+    "lectureIdx": 94,
     "title": "Introduction to Algorithms",
     "instructors": ["Prof. Erik Demaine", "Prof. Srini Devadas"],
     "topics": [
@@ -1545,6 +1640,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/1075c5ac06ae4c2cea8c89e9772da78a_6-006f11.jpg"
   },
   {
+    "lectureIdx": 95,
     "title": "D-Lab: Energy",
     "instructors": ["Amy Banzaert", "Amit Gandhi"],
     "topics": [
@@ -1565,6 +1661,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/ec-711-d-lab-energy-spring-2011/904b1bf01a94f63a980908933b86bfda_ec-711s11.jpg"
   },
   {
+    "lectureIdx": 96,
     "title": "Effective Field Theory",
     "instructors": ["Prof. Iain Stewart"],
     "topics": ["Science", "Physics", "Particle Physics"],
@@ -1575,6 +1672,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-851-effective-field-theory-spring-2013/d0e8a576881c7d6b944b3d2c78a5515e_8-851s13.jpg"
   },
   {
+    "lectureIdx": 97,
     "title": "General Relativity",
     "instructors": ["Prof. Scott Hughes"],
     "topics": ["Science", "Physics", "Relativity"],
@@ -1585,6 +1683,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-962-general-relativity-spring-2020/450241916ecfacb4b9810cf958762651_8-962s20.jpg"
   },
   {
+    "lectureIdx": 98,
     "title": "Performance Engineering of Software Systems",
     "instructors": ["Prof. Charles Leiserson", "Prof. Julian Shun"],
     "topics": [
@@ -1602,6 +1701,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/2ea5b1550197db095fcb82df55203675_6-172f18.jpg"
   },
   {
+    "lectureIdx": 99,
     "title": "Programming for the Puzzled",
     "instructors": ["Prof. Srini Devadas"],
     "topics": [
@@ -1617,6 +1717,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/8a47e175cc72845e080f083fcfbc7c29_6-S095IAP18.jpg"
   },
   {
+    "lectureIdx": 100,
     "title": "The Battlecode Programming Competition",
     "instructors": ["Maxwell Mann"],
     "topics": [
@@ -1634,6 +1735,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/7a9458fa1205ca527ba893f8188b6933_6-370iap13.jpg"
   },
   {
+    "lectureIdx": 101,
     "title": "Discrete Stochastic Processes",
     "instructors": ["Prof. Robert Gallager"],
     "topics": [
@@ -1648,6 +1750,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/c9c28d7dc814c64c1f71a121b85dac7f_6-262s11.jpg"
   },
   {
+    "lectureIdx": 102,
     "title": "Small-Molecule Spectroscopy and Dynamics",
     "instructors": ["Prof. Robert Field"],
     "topics": [
@@ -1666,6 +1769,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/1f1e281d715b992b19eb4f3a56e58e34_5-80f08.jpg"
   },
   {
+    "lectureIdx": 103,
     "title": "Physical Chemistry",
     "instructors": ["Prof. Robert Field"],
     "topics": ["Science", "Chemistry", "Physical Chemistry"],
@@ -1676,6 +1780,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/aac3f83963cf867b65f821a0fa92829b_5-61f17.JPG"
   },
   {
+    "lectureIdx": 104,
     "title": "Introductory Quantum Mechanics II",
     "instructors": ["Prof. Andrei Tokmakoff"],
     "topics": [
@@ -1692,6 +1797,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/7de906d303891bb0d15bfb4e75da6434_5-74s09.jpg"
   },
   {
+    "lectureIdx": 105,
     "title": "Darwin and Design",
     "instructors": ["Prof. James Paradis"],
     "topics": [
@@ -1711,6 +1817,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2010/6991124f0da63e0b805e876b60d9d077_21l-448jf10.jpg"
   },
   {
+    "lectureIdx": 106,
     "title": "Circuits and Electronics",
     "instructors": ["Prof. Anant Agarwal"],
     "topics": ["Engineering", "Electrical Engineering", "Electronics"],
@@ -1721,6 +1828,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/057c5af7b1e9cccd3b069dfe3797a5c8_6-002s07.jpg"
   },
   {
+    "lectureIdx": 107,
     "title": "Introduction to Computational Thinking and Data Science",
     "instructors": ["Prof. Eric Grimson", "Prof. John Guttag", "Dr. Ana Bell"],
     "topics": [
@@ -1736,6 +1844,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/d9b969b1e9e2029d7e9b9e2c9324dde4_6-0002f16.jpg"
   },
   {
+    "lectureIdx": 108,
     "title": "Nano-to-Macro Transport Processes",
     "instructors": ["Prof. Gang Chen"],
     "topics": [
@@ -1755,6 +1864,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/2-57-nano-to-macro-transport-processes-spring-2012/8e9a0b217b3fd7ff26c22985b770de69_2-57s12.jpg"
   },
   {
+    "lectureIdx": 109,
     "title": "Computation Structures",
     "instructors": ["Chris Terman"],
     "topics": [
@@ -1771,6 +1881,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/3a6d35b0390ffb5180ed20f5fadd63db_6-004S17.jpg"
   },
   {
+    "lectureIdx": 110,
     "title": "A 2020 Vision of Linear Algebra",
     "instructors": ["Prof. Gilbert Strang"],
     "topics": ["Mathematics", "Linear Algebra"],
@@ -1781,6 +1892,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/7cc0f4ea3cbe6ba10f16c1bad81fb872_RES-18-010S20.jpg"
   },
   {
+    "lectureIdx": 111,
     "title": "Kanji Learning Any Time, Any Place for Japanese VI",
     "instructors": ["Dr. Takako Aikawa", "Dr. Meghan Perdue"],
     "topics": ["Humanities", "Language", "Japanese"],
@@ -1791,6 +1903,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/cb8e1aff341a8c610d2d664c7d4abb63_res-21g-506.jpg"
   },
   {
+    "lectureIdx": 112,
     "title": "Astrodynamics",
     "instructors": ["Prof. Richard Battin"],
     "topics": [
@@ -1806,6 +1919,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/16-346-astrodynamics-fall-2008/77986f60806567e9ae5ef12bd3f6d759_16-346f08.jpg"
   },
   {
+    "lectureIdx": 113,
     "title": "Health Information Systems to Improve Quality of Care in Resource-Poor Settings",
     "instructors": [
       "Dr. Leo A Celi",
@@ -1831,6 +1945,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/b377f0dca384373dca6f4baefd462e9b_hst-s14s12.jpg"
   },
   {
+    "lectureIdx": 114,
     "title": "The History of MIT",
     "instructors": ["Prof. David Mindell", "Prof. Merritt Roe Smith"],
     "topics": [
@@ -1849,6 +1964,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/004754980a4063dc1c10535427207de2_sts-050s11.jpg"
   },
   {
+    "lectureIdx": 115,
     "title": "Introduction to Housing, Community, and Economic Development",
     "instructors": ["Prof. J. Phillip Thompson", "Prof. Justin Steil"],
     "topics": [
@@ -1868,6 +1984,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/5dfb514c72c8b8bb83f3d96efc5e3d6a_11-401f15.jpg"
   },
   {
+    "lectureIdx": 116,
     "title": "Thermodynamics & Kinetics",
     "instructors": ["Prof. Keith A. Nelson", "Prof. Moungi Bawendi"],
     "topics": [
@@ -1885,6 +2002,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/15f29189c66d698a742c562fb1f723ef_5-60s08.jpg"
   },
   {
+    "lectureIdx": 117,
     "title": "Differential Equations",
     "instructors": ["Prof. Haynes Miller", "Prof. Arthur Mattuck"],
     "topics": ["Mathematics", "Differential Equations", "Linear Algebra"],
@@ -1895,6 +2013,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/e51bbed857b0ae65e7536f120c1473d9_18-03s10.jpg"
   },
   {
+    "lectureIdx": 118,
     "title": "Mathematics for Computer Science",
     "instructors": ["Prof. Tom Leighton", "Dr. Marten van Dijk"],
     "topics": [
@@ -1912,6 +2031,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/42ba5c4fb2e9df43aa8b2bc0566b459f_6-042jf10.jpg"
   },
   {
+    "lectureIdx": 119,
     "title": "Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic",
     "instructors": ["Prof. Alan Edelman", "Prof. David P. Sanders"],
     "topics": [
@@ -1931,6 +2051,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/6de8ebc1dd0be8960d71d7cc53c0c6fb_18-S190s20.gif"
   },
   {
+    "lectureIdx": 120,
     "title": "Exploring Black Holes: General Relativity & Astrophysics",
     "instructors": ["Prof. Edmund Bertschinger", "Prof. Edwin F. Taylor"],
     "topics": ["Science", "Physics", "Astrophysics", "Relativity"],
@@ -1941,6 +2062,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/fa646bdf7cc03bb7a8ed08c100bf2701_8-224s03.jpg"
   },
   {
+    "lectureIdx": 121,
     "title": "How to Speak",
     "instructors": ["Patrick Henry Winston"],
     "topics": [
@@ -1955,6 +2077,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/28205c50444b2ad0368682a733f1a36c_RES-TLL-005IAP18.jpg"
   },
   {
+    "lectureIdx": 122,
     "title": "Calculus Revisited: Multivariable Calculus",
     "instructors": ["Prof. Herbert Gross"],
     "topics": ["Mathematics", "Calculus", "Differential Equations"],
@@ -1965,6 +2088,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/854b435085940a70d021829d02f0b802_res-18-007f11.jpg"
   },
   {
+    "lectureIdx": 123,
     "title": "Energy Decisions, Markets, and Policies",
     "instructors": ["Prof. Richard Schmalensee"],
     "topics": [
@@ -1984,6 +2108,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/eab08f39ff3c71f01d8a97fd0d2de47a_15-031js12.jpg"
   },
   {
+    "lectureIdx": 124,
     "title": "Fundamentals of Systems Engineering",
     "instructors": ["Prof. Olivier de Weck"],
     "topics": ["Engineering", "Aerospace Engineering", "Systems Engineering"],
@@ -1994,6 +2119,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/726dfc67e86050ec2c1f83c5c248961d_16-842f15.gif"
   },
   {
+    "lectureIdx": 125,
     "title": "Introduction to Lean Six Sigma Methods",
     "instructors": [
       "Earll Murman",
@@ -2020,6 +2146,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/bb2b9f6f539febfaab4c819728f1a081_16-660iap12.jpg"
   },
   {
+    "lectureIdx": 126,
     "title": "Matrix Methods in Data Analysis, Signal Processing, and Machine Learning",
     "instructors": ["Prof. Gilbert Strang"],
     "topics": [
@@ -2038,6 +2165,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/a24ae149b417e01db75f22ca566124e1_18-065s18.jpg"
   },
   {
+    "lectureIdx": 127,
     "title": "Black Matters: Introduction to Black Studies",
     "instructors": ["Prof. Michel DeGraff"],
     "topics": [
@@ -2055,6 +2183,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/5397de05867bd4a28fa3135ea46cdc7d_24-912s17.jpg"
   },
   {
+    "lectureIdx": 128,
     "title": "Cellular Solids: Structure, Properties and Applications",
     "instructors": ["Lorna Gibson"],
     "topics": [
@@ -2071,6 +2200,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/e320e9d8b7f51ef01a9ffaf53a3e9246_3-054s15.jpg"
   },
   {
+    "lectureIdx": 129,
     "title": "Aircraft Systems Engineering",
     "instructors": ["Prof. Jeffrey Hoffman"],
     "topics": [
@@ -2087,6 +2217,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/16-885j-aircraft-systems-engineering-fall-2005/09cced96aa9ab8c4f9220ad837b8adeb_16-885jf05.jpg"
   },
   {
+    "lectureIdx": 130,
     "title": "Black Matters: Introduction to Black Studies",
     "instructors": ["Prof. Michel DeGraff"],
     "topics": [
@@ -2104,6 +2235,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/5397de05867bd4a28fa3135ea46cdc7d_24-912s17.jpg"
   },
   {
+    "lectureIdx": 131,
     "title": "Aircraft Systems Engineering",
     "instructors": ["Prof. Jeffrey Hoffman"],
     "topics": [
@@ -2120,6 +2252,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/16-885j-aircraft-systems-engineering-fall-2005/09cced96aa9ab8c4f9220ad837b8adeb_16-885jf05.jpg"
   },
   {
+    "lectureIdx": 132,
     "title": "Musical Improvisation",
     "instructors": ["Dr. Mark Harvey", "Tom Hall"],
     "topics": ["Fine Arts", "Music"],
@@ -2130,6 +2263,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21m-355-musical-improvisation-spring-2013/8239e3494b005d5f5c6551fb66cc1ec7_21M-355s13.jpg"
   },
   {
+    "lectureIdx": 133,
     "title": "Systems Biology",
     "instructors": ["Prof. Jeff Gore"],
     "topics": [
@@ -2149,6 +2283,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg"
   },
   {
+    "lectureIdx": 134,
     "title": "Introduction to Psychology",
     "instructors": ["Prof. John D. E. Gabrieli"],
     "topics": ["Science", "Cognitive Science", "Social Science", "Psychology"],
@@ -2159,6 +2294,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/5e3bbd1def95cb7fe71f0f47db3bc5fb_9-00scf11.jpg"
   },
   {
+    "lectureIdx": 135,
     "title": "Foundations of Computational and Systems Biology",
     "instructors": [
       "Prof. Christopher Burge",
@@ -2182,6 +2318,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/3fd2ad656393a3326bd168604c7ee4f9_7-91js14.jpg"
   },
   {
+    "lectureIdx": 136,
     "title": "Statistical Mechanics II: Statistical Physics of Fields",
     "instructors": ["Prof. Mehran Kardar"],
     "topics": [
@@ -2199,6 +2336,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/5672848001bbb171070bbbc08cbb6af6_8-334s14.jpg"
   },
   {
+    "lectureIdx": 137,
     "title": "Fundamentals of Systems Engineering",
     "instructors": ["Prof. Olivier de Weck"],
     "topics": ["Engineering", "Aerospace Engineering", "Systems Engineering"],
@@ -2209,6 +2347,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/726dfc67e86050ec2c1f83c5c248961d_16-842f15.gif"
   },
   {
+    "lectureIdx": 138,
     "title": "Teaching College-Level Science and Engineering",
     "instructors": ["Dr. Janet Rankin"],
     "topics": [
@@ -2226,6 +2365,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/680c27ffaa1346598119362072b1d5df_5-95jf15.jpg"
   },
   {
+    "lectureIdx": 139,
     "title": "Cellular Solids: Structure, Properties and Applications",
     "instructors": ["Lorna Gibson"],
     "topics": [
@@ -2242,6 +2382,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/e320e9d8b7f51ef01a9ffaf53a3e9246_3-054s15.jpg"
   },
   {
+    "lectureIdx": 140,
     "title": "Introduction to Psychology",
     "instructors": ["Prof. John D. E. Gabrieli"],
     "topics": ["Science", "Cognitive Science", "Social Science", "Psychology"],
@@ -2252,6 +2393,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/5e3bbd1def95cb7fe71f0f47db3bc5fb_9-00scf11.jpg"
   },
   {
+    "lectureIdx": 141,
     "title": "Foundations of Computational and Systems Biology",
     "instructors": [
       "Prof. Christopher Burge",
@@ -2275,6 +2417,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/3fd2ad656393a3326bd168604c7ee4f9_7-91js14.jpg"
   },
   {
+    "lectureIdx": 142,
     "title": "Systems Biology",
     "instructors": ["Prof. Jeff Gore"],
     "topics": [
@@ -2294,6 +2437,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg"
   },
   {
+    "lectureIdx": 143,
     "title": "Statistical Mechanics II: Statistical Physics of Fields",
     "instructors": ["Prof. Mehran Kardar"],
     "topics": [
@@ -2311,6 +2455,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/5672848001bbb171070bbbc08cbb6af6_8-334s14.jpg"
   },
   {
+    "lectureIdx": 144,
     "title": "Green Supply Chain Management",
     "instructors": [
       "Dr. Edgar Blanco",
@@ -2334,6 +2479,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/9e1606ae077c270fb7f1f10d3d23d366_esd-s43s14.jpg"
   },
   {
+    "lectureIdx": 145,
     "title": "The Challenge of World Poverty",
     "instructors": ["Prof. Esther Duflo", "Prof. Abhijit Banerjee"],
     "topics": [
@@ -2354,6 +2500,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/14-73-the-challenge-of-world-poverty-spring-2011/7b1027ee0a8ca83157541417c999bcb4_14-73s11.jpg"
   },
   {
+    "lectureIdx": 146,
     "title": "Introduction to Biology",
     "instructors": [
       "Dr. Claudette Gardel",
@@ -2369,6 +2516,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/0edc4641ba72c9a90e7028411a323d70_7-012f04.jpg"
   },
   {
+    "lectureIdx": 147,
     "title": "Abdul Latif Jameel Poverty Action Lab Executive Training: Evaluating Social Programs 2009",
     "instructors": [
       "Prof. Esther Duflo",
@@ -2393,6 +2541,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/698b16c21d0b79fca069d623e89dde8e_res-14-001s09.jpg"
   },
   {
+    "lectureIdx": 148,
     "title": "Optics",
     "instructors": [
       "Prof. George Barbastathis",
@@ -2413,6 +2562,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/2-71-optics-spring-2009/3024e300799aab2575431ee950f0205e_2-71s09.jpg"
   },
   {
+    "lectureIdx": 149,
     "title": "Linear Algebra",
     "instructors": ["Prof. Gilbert Strang"],
     "topics": ["Mathematics", "Linear Algebra"],
@@ -2423,6 +2573,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/ad862b68e2323331fd3ee944ed704f38_18-06scf11.jpg"
   },
   {
+    "lectureIdx": 150,
     "title": "Linear Algebra",
     "instructors": ["Prof. Gilbert Strang"],
     "topics": ["Mathematics", "Linear Algebra"],
@@ -2433,6 +2584,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/ad862b68e2323331fd3ee944ed704f38_18-06scf11.jpg"
   },
   {
+    "lectureIdx": 151,
     "title": "Introduction to Deep Learning",
     "instructors": ["Alexander Amini", "Ava Soleimany"],
     "topics": [
@@ -2449,6 +2601,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/5c27f47a367c35a4db16a70d574747bd_6-s191iap20.jpg"
   },
   {
+    "lectureIdx": 152,
     "title": "Water Diplomacy",
     "instructors": ["Dr. Animesh Gain", "Prof. Lawrence Susskind"],
     "topics": [
@@ -2468,6 +2621,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/11-382-water-diplomacy-spring-2021/f1ef819cc203e22b137e965313ad95ca_11-382s20.jpg"
   },
   {
+    "lectureIdx": 153,
     "title": "Multivariable Calculus",
     "instructors": ["Prof. Denis Auroux"],
     "topics": [
@@ -2483,6 +2637,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/98f7f76b373d20b5c3f849016d8ff5a1_18-02scf10.jpg"
   },
   {
+    "lectureIdx": 154,
     "title": "Mathematics for Computer Science",
     "instructors": ["Prof. Albert R. Meyer", "Prof. Adam Chlipala"],
     "topics": [
@@ -2499,6 +2654,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/mathematics-for-computer-science/6-042js15.jpeg"
   },
   {
+    "lectureIdx": 155,
     "title": "Signals and Systems",
     "instructors": ["Prof. Alan V. Oppenheim"],
     "topics": [
@@ -2516,6 +2672,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/a31f0415c6d6d937cc662b4ed8cbbfe4_res-6-007s11.jpg"
   },
   {
+    "lectureIdx": 156,
     "title": "Creole Languages and Caribbean Identities",
     "instructors": ["Prof. Michel DeGraff"],
     "topics": [
@@ -2531,6 +2688,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/d56f1f88cfa5094342e35e41193127c1_MIT24_912S17_chp.jpg"
   },
   {
+    "lectureIdx": 157,
     "title": "City Visions: Past and Future",
     "instructors": ["Prof. Diane Davis", "Prof. Lawrence Vale"],
     "topics": [
@@ -2551,6 +2709,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/7a1ec5f2607179aa0367e4dfb8b8df9b_11-949s04.jpg"
   },
   {
+    "lectureIdx": 158,
     "title": "Reflective Practice: An Approach for Expanding Your Learning Frontiers",
     "instructors": [
       "Prof. Ceasar McDowell",
@@ -2565,6 +2724,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/0240a5fbf0bdf718971641a9482528c5_11-965iap07.jpg"
   },
   {
+    "lectureIdx": 159,
     "title": "Philosophy of Film",
     "instructors": ["Prof. Irving Singer"],
     "topics": [
@@ -2581,6 +2741,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/59e9f61fdf404dc9014e08a3d7c3128f_24-213f04.jpg"
   },
   {
+    "lectureIdx": 160,
     "title": "Philosophy In Film and Other Media",
     "instructors": ["Prof. Irving Singer"],
     "topics": [
@@ -2599,6 +2760,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/24-209-philosophy-in-film-and-other-media-spring-2004/628bb5cd1f6f2a3f30ddcb0e561c63ff_24-209s04.jpg"
   },
   {
+    "lectureIdx": 161,
     "title": "Introduction to Modeling and Simulation",
     "instructors": ["Prof. Markus Buehler", "Prof. Jeffrey Grossman"],
     "topics": [
@@ -2618,6 +2780,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg"
   },
   {
+    "lectureIdx": 162,
     "title": "Symmetry, Structure, and Tensor Properties of Materials",
     "instructors": ["Prof. Bernhardt Wuensch"],
     "topics": [
@@ -2633,6 +2796,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/7523b49bb7a42614053adbda9b982d37_3-60f05.jpg"
   },
   {
+    "lectureIdx": 163,
     "title": "Philosophical Issues in Brain Science",
     "instructors": ["Prof. Alex Byrne", "Prof. Pawan Sinha"],
     "topics": [
@@ -2651,6 +2815,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/66a4ca20c74d235f7bc38c889365dd1f_24-08js09.jpg"
   },
   {
+    "lectureIdx": 164,
     "title": "Materials Laboratory",
     "instructors": [
       "Prof. Francesco Stellacci",
@@ -2672,6 +2837,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/44370cbedf2c22e2537551c76eafade8_3-014f06.jpg"
   },
   {
+    "lectureIdx": 165,
     "title": "Probabilistic Systems Analysis and Applied Probability",
     "instructors": ["Prof. John Tsitsiklis"],
     "topics": [
@@ -2688,6 +2854,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/b0d2d1dd8f89cb4bbb4870f857dcdeed_6-041SCf13.jpg"
   },
   {
+    "lectureIdx": 166,
     "title": "Structure and Interpretation of Computer Programs",
     "instructors": [
       "Prof. Eric Grimson",
@@ -2708,6 +2875,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/ad40b7bc2fd8fcd95f535c77aeeafde3_6-001s05.jpg"
   },
   {
+    "lectureIdx": 167,
     "title": "Computer Language Engineering (SMA 5502)",
     "instructors": ["Prof. Martin Rinard", "Prof. Saman Amarasinghe"],
     "topics": [
@@ -2723,6 +2891,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/e4fef5da33e933ff1a57d51c22d72850_6-035f05.jpg"
   },
   {
+    "lectureIdx": 168,
     "title": "Studio Seminar in Public Art",
     "instructors": ["Prof. Antonio Muntadas"],
     "topics": [
@@ -2739,6 +2908,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/4-367-studio-seminar-in-public-art-spring-2006/1c1b81e86991ff601d78980904dc69f8_4-367s06.jpg"
   },
   {
+    "lectureIdx": 169,
     "title": "Introductory Quantum Mechanics II",
     "instructors": ["Prof. Robert Field", "Prof. Andrei Tokmakoff"],
     "topics": [
@@ -2755,6 +2925,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/dc94284e6bed8e2e47b66fa579b20af2_5-74s04.jpg"
   },
   {
+    "lectureIdx": 170,
     "title": "Multicore Programming Primer",
     "instructors": ["Dr. Rodric Rabbah", "Prof. Saman Amarasinghe"],
     "topics": [
@@ -2771,6 +2942,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/29adf97891c3856cb3652b9848e93c55_6-189iap07.jpg"
   },
   {
+    "lectureIdx": 171,
     "title": "General Biochemistry",
     "instructors": ["Prof. Michael Yaffe", "Prof. Matthew Vander Heiden"],
     "topics": [
@@ -2789,6 +2961,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/7-05-general-biochemistry-spring-2020/ee542d846a1a8a0f5367efea0e7522e0_7-05s20.jpg"
   },
   {
+    "lectureIdx": 172,
     "title": "Engineering Math: Differential Equations and Linear Algebra",
     "instructors": ["Prof. Daniel Frey", "Prof. Gilbert Strang"],
     "topics": [
@@ -2806,6 +2979,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/f3ef06c70a775a74be6b2a5a6788e1a9_2-080jf14.jpg"
   },
   {
+    "lectureIdx": 173,
     "title": "Project Laboratory in Mathematics",
     "instructors": [
       "Prof. Haynes Miller",
@@ -2821,6 +2995,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-821-project-laboratory-in-mathematics-spring-2013/4d23091d2bc56fe46d100d53ae797a5f_18-821s13.jpg"
   },
   {
+    "lectureIdx": 174,
     "title": "Engineering Design and Rapid Prototyping",
     "instructors": [
       "Prof. David Wallace",
@@ -2845,6 +3020,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/c7dc493ba0e742986ecfb617699db103_16-810iap05.jpg"
   },
   {
+    "lectureIdx": 175,
     "title": "Physics II: Electricity and Magnetism",
     "instructors": [
       "Dr. Peter Dourmashkin",
@@ -2861,6 +3037,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/a10d2efb59f6dd20dfeba20bc0611450_8-02s19.jpg"
   },
   {
+    "lectureIdx": 176,
     "title": "The Society of Mind",
     "instructors": ["Prof. Marvin Minsky"],
     "topics": [
@@ -2877,6 +3054,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-868j-the-society-of-mind-fall-2011/82a71e656998473fb474d9bd38264a35_6-868jf11.jpg"
   },
   {
+    "lectureIdx": 177,
     "title": "Understanding Television",
     "instructors": ["Prof. David Thorburn"],
     "topics": [
@@ -2898,6 +3076,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21l-432-understanding-television-spring-2003/8be74a16511d8b3c80eb1895747dae17_21l-432s03.jpg"
   },
   {
+    "lectureIdx": 178,
     "title": "Introduction to Probability",
     "instructors": ["Prof. John Tsitsiklis", "Prof. Patrick Jaillet"],
     "topics": [
@@ -2913,6 +3092,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/15f66b6f0289f4b4f3e9577b7c264182_res-6-012s18.jpg"
   },
   {
+    "lectureIdx": 179,
     "title": "Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler",
     "instructors": ["Prof. Gilbert Strang", "Dr. Cleve Moler"],
     "topics": [
@@ -2931,6 +3111,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/dca2d57b2aa2ae39adce6305c70f0ce1_res-18-009f15.jpg"
   },
   {
+    "lectureIdx": 180,
     "title": "Materials Laboratory",
     "instructors": [
       "Prof. Francesco Stellacci",
@@ -2952,6 +3133,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/44370cbedf2c22e2537551c76eafade8_3-014f06.jpg"
   },
   {
+    "lectureIdx": 181,
     "title": "Introduction to Modeling and Simulation",
     "instructors": ["Prof. Markus Buehler", "Prof. Jeffrey Grossman"],
     "topics": [
@@ -2971,6 +3153,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg"
   },
   {
+    "lectureIdx": 182,
     "title": "Symmetry, Structure, and Tensor Properties of Materials",
     "instructors": ["Prof. Bernhardt Wuensch"],
     "topics": [
@@ -2986,6 +3169,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/7523b49bb7a42614053adbda9b982d37_3-60f05.jpg"
   },
   {
+    "lectureIdx": 183,
     "title": "Philosophical Issues in Brain Science",
     "instructors": ["Prof. Alex Byrne", "Prof. Pawan Sinha"],
     "topics": [
@@ -3004,6 +3188,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/66a4ca20c74d235f7bc38c889365dd1f_24-08js09.jpg"
   },
   {
+    "lectureIdx": 184,
     "title": "General Biochemistry",
     "instructors": ["Prof. Michael Yaffe", "Prof. Matthew Vander Heiden"],
     "topics": [
@@ -3022,6 +3207,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/7-05-general-biochemistry-spring-2020/ee542d846a1a8a0f5367efea0e7522e0_7-05s20.jpg"
   },
   {
+    "lectureIdx": 185,
     "title": "Underactuated Robotics",
     "instructors": ["Prof. Russell Tedrake"],
     "topics": [
@@ -3038,6 +3224,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/e7c8a3779cf478cfc8365571e074ebc7_6-832s09.jpg"
   },
   {
+    "lectureIdx": 186,
     "title": "Physics II: Electricity and Magnetism",
     "instructors": [
       "Dr. Peter Dourmashkin",
@@ -3054,6 +3241,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/a10d2efb59f6dd20dfeba20bc0611450_8-02s19.jpg"
   },
   {
+    "lectureIdx": 187,
     "title": "How to Develop Breakthrough Products and Services",
     "instructors": ["Prof. Eric von Hippel"],
     "topics": ["Business", "Entrepreneurship", "Innovation"],
@@ -3064,6 +3252,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/e9364f2c78325737c5785e372c8330cc_15-356s12.jpg"
   },
   {
+    "lectureIdx": 188,
     "title": "Public Transportation Systems",
     "instructors": [
       "Prof. Nigel Wilson",
@@ -3085,6 +3274,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/f05dd8f8311ee9d6d192ab981cbbdf3e_1-258Js17.jpg"
   },
   {
+    "lectureIdx": 189,
     "title": "Interdisciplinary Approaches to Musical Time",
     "instructors": [
       "Dr. Martin Marks",
@@ -3107,6 +3297,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/f5c3635c6020ba5909eef3980c0553fd_21m-542iap10.jpg"
   },
   {
+    "lectureIdx": 190,
     "title": "STEM Concept Videos",
     "instructors": [
       "Teaching and Learning Laboratory (TLL)",
@@ -3130,6 +3321,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-tll-004-stem-concept-videos-fall-2013/53b4d019a6dc6ccc1fb86c6a12d9c5f6_res-tl-004f13.jpg"
   },
   {
+    "lectureIdx": 191,
     "title": "Unified Engineering I, II, III, & IV",
     "instructors": [
       "Prof. Mark Drela",
@@ -3163,6 +3355,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f56bbb35d0e456dc8b70911bec7cd0d_16-01f05.jpg"
   },
   {
+    "lectureIdx": 192,
     "title": "Interdisciplinary Approaches to Musical Time",
     "instructors": [
       "Dr. Martin Marks",
@@ -3185,6 +3378,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/f5c3635c6020ba5909eef3980c0553fd_21m-542iap10.jpg"
   },
   {
+    "lectureIdx": 193,
     "title": "Laboratory Chemistry",
     "instructors": ["Dr. John J. Dolhun", "Dr. Sarah Hewett"],
     "topics": ["Science", "Chemistry"],
@@ -3195,6 +3389,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-310-laboratory-chemistry-fall-2019/52c765b12e4e9e210ea3daab31337f61_5-310f19.jpg"
   },
   {
+    "lectureIdx": 194,
     "title": "How to Develop Breakthrough Products and Services",
     "instructors": ["Prof. Eric von Hippel"],
     "topics": ["Business", "Entrepreneurship", "Innovation"],
@@ -3205,6 +3400,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/e9364f2c78325737c5785e372c8330cc_15-356s12.jpg"
   },
   {
+    "lectureIdx": 195,
     "title": "Playful Augmented Reality Audio Design Exploration",
     "instructors": ["Mikael Jakobsson", "Philip B. Tan"],
     "topics": [
@@ -3221,6 +3417,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/012b91c8fbb3d01295db57ff18b1c829_cms-s63f19.jpg"
   },
   {
+    "lectureIdx": 196,
     "title": "Introduction to Computational Thinking",
     "instructors": [
       "Prof. Alan Edelman",
@@ -3248,6 +3445,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/fcf0a572dbb9cb7b4d22c768c8e2fc84_18-S191f20.jpg"
   },
   {
+    "lectureIdx": 197,
     "title": "Engineering Dynamics",
     "instructors": ["Prof. J. Kim Vandiver", "Prof. David Gossard"],
     "topics": [
@@ -3265,6 +3463,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/e541b119638faca8fbbefb815ef3cc30_2-003scf11.jpg"
   },
   {
+    "lectureIdx": 198,
     "title": "System Dynamics: Systems Thinking and Modeling for a Complex World",
     "instructors": ["James E. Paine"],
     "topics": [
@@ -3280,6 +3479,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/053b70bcb88e0ffc32bce16edfba06a9_MITRES15-004IAP20.jpg"
   },
   {
+    "lectureIdx": 199,
     "title": "Electromagnetic Fields and Energy",
     "instructors": [
       "Hermann A. Haus",
@@ -3301,6 +3501,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/22be3daa0aa336953e173ab8d8e4a6a5_res-6-001s08.jpg"
   },
   {
+    "lectureIdx": 200,
     "title": "Principles of Chemical Science",
     "instructors": ["Prof. Catherine Drennan", "Dr. Elizabeth Vogel Taylor"],
     "topics": ["Science", "Chemistry"],
@@ -3311,6 +3512,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/08b6e1982462f0318068a10fe0550826_5-111f08.jpg"
   },
   {
+    "lectureIdx": 201,
     "title": "Elliptic Curves",
     "instructors": ["Dr. Andrew Sutherland"],
     "topics": [
@@ -3327,6 +3529,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-783-elliptic-curves-spring-2021/743cf5e3ad82e7f2cbd2bd75b454dc5d_18-783s21.jpg"
   },
   {
+    "lectureIdx": 202,
     "title": "Theory of Computation",
     "instructors": ["Prof. Michael Sipser"],
     "topics": [
@@ -3344,6 +3547,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/25eb14e154bff97af5173a45a625ab51_18-404jf20_v2.jpg"
   },
   {
+    "lectureIdx": 203,
     "title": "Principles of Microeconomics",
     "instructors": ["Prof. Jonathan Gruber"],
     "topics": ["Social Science", "Economics", "Microeconomics"],
@@ -3354,6 +3558,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2018/1e55ea22b36513349f52225aa9ba87e9_14-01f18.jpg"
   },
   {
+    "lectureIdx": 204,
     "title": "Dynamics and Control I",
     "instructors": [
       "Prof. Nicholas Makris",
@@ -3375,6 +3580,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/2-003j-dynamics-and-control-i-fall-2007/8616c4522a27a8fb7a2c4d1b56bcf3fe_2-003jf07.jpg"
   },
   {
+    "lectureIdx": 205,
     "title": "Applied Category Theory ",
     "instructors": ["Dr. David I. Spivak", "Dr. Brendan Fong"],
     "topics": ["Mathematics", "Applied Mathematics", "Topology and Geometry"],
@@ -3385,6 +3591,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/0d866f14140a2414ef83284d4b5fee6e_18-s097iap19.jpg"
   },
   {
+    "lectureIdx": 206,
     "title": "Becoming the Next Bill Nye: Writing and Hosting the Educational Show",
     "instructors": [
       "Elizabeth Choe",
@@ -3414,6 +3621,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/f54fa4be872261b4ccfca37e1a17100e_20-219iap15.jpg"
   },
   {
+    "lectureIdx": 207,
     "title": "The Film Experience",
     "instructors": ["Prof. David Thorburn"],
     "topics": ["Fine Arts", "Visual Arts", "Film and Video"],
@@ -3424,6 +3632,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/21l-011-the-film-experience-fall-2013/a6377eab1423431f1f7b1129239d4be7_21l-011f13.jpg"
   },
   {
+    "lectureIdx": 208,
     "title": "Cognitive Robotics",
     "instructors": ["Prof. Brian Charles Williams"],
     "topics": [
@@ -3440,6 +3649,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/54d1a777a7666799ad583f802b147c0d_16-412js16.jpg"
   },
   {
+    "lectureIdx": 209,
     "title": "Private Pilot Ground School",
     "instructors": ["Dr. Philip Greenspun", "Dr. Tina Srivastava"],
     "topics": ["Engineering", "Aerospace Engineering"],
@@ -3450,6 +3660,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/16-687-private-pilot-ground-school-january-iap-2019/b5571466c776ed450f6a9d13f807c04f_16-687iap19.jpg"
   },
   {
+    "lectureIdx": 210,
     "title": "Poker Theory and Analytics",
     "instructors": ["Kevin Desmond"],
     "topics": [
@@ -3465,6 +3676,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/d0f93b2cd45af686cfe4b6c19e96d0b4_15-s50iap15.jpg"
   },
   {
+    "lectureIdx": 211,
     "title": "Nuclear Systems Design Project",
     "instructors": ["Prof. Michael Short"],
     "topics": [
@@ -3490,6 +3702,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/22-033-nuclear-systems-design-project-fall-2011/2dd223d254f7cf31e2c811afdb87eeb8_22-033f11.jpg"
   },
   {
+    "lectureIdx": 212,
     "title": "Introduction to Nuclear Engineering and Ionizing Radiation",
     "instructors": ["Prof. Michael Short"],
     "topics": [
@@ -3506,6 +3719,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/64a937e4f745ca4557288943eac0cec7_22-01f16.jpg"
   },
   {
+    "lectureIdx": 213,
     "title": "Sensory Systems",
     "instructors": ["Prof. Peter H. Schiller", "Prof. M. Christian Brown"],
     "topics": [
@@ -3524,6 +3738,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/9-04-sensory-systems-fall-2013/f620eb0ee65a809a76c00f2e4f51acdf_9-04f13.jpg"
   },
   {
+    "lectureIdx": 214,
     "title": "Atomic and Optical Physics I",
     "instructors": ["Prof. Wolfgang Ketterle"],
     "topics": ["Science", "Physics", "Atomic, Molecular, Optical Physics"],
@@ -3534,6 +3749,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-421-atomic-and-optical-physics-i-spring-2014/c039057064a6daa0fea6d33bb4e420eb_8-421s14.jpg"
   },
   {
+    "lectureIdx": 215,
     "title": "Biological Chemistry I",
     "instructors": [
       "Prof. John Essigmann",
@@ -3548,6 +3764,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-07sc-biological-chemistry-i-fall-2013/753a9eda4508a90642831dcdc23f4f10_5-07scf13.jpg"
   },
   {
+    "lectureIdx": 216,
     "title": "Principles of Chemical Science",
     "instructors": ["Prof. Catherine Drennan"],
     "topics": [
@@ -3564,6 +3781,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/afc26c2e5de67efafa76680f079d1254_5-111scf14.jpg"
   },
   {
+    "lectureIdx": 217,
     "title": "Artificial Intelligence",
     "instructors": ["Patrick Henry Winston"],
     "topics": [
@@ -3580,6 +3798,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/222f721ca21fb802fd00fa09e17b7f80_6-034f10.JPG"
   },
   {
+    "lectureIdx": 218,
     "title": "Brains, Minds and Machines Summer Course",
     "instructors": ["Prof. Tomaso Poggio", "Prof. Gabriel Kreiman"],
     "topics": [
@@ -3604,6 +3823,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/d9b85b4bdedd72beb1e5cac01ea694d1_res-9-003sum15.jpg"
   },
   {
+    "lectureIdx": 219,
     "title": "Mathematics of Big Data and Machine Learning",
     "instructors": ["Dr. Jeremy Kepner", "Dr. Vijay Gadepally"],
     "topics": [
@@ -3620,6 +3840,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/7311378c6e1194415d5bb278083d4987_res-ll-005iap20.jpg"
   },
   {
+    "lectureIdx": 220,
     "title": "Girls Who Build Cameras",
     "instructors": [
       "Kristen E Railey",
@@ -3644,6 +3865,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-2-006-girls-who-build-cameras-summer-2016/79dbf8496c35fd78c2c1336060c66402_res-2-006sum16.jpg"
   },
   {
+    "lectureIdx": 221,
     "title": "Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work",
     "instructors": ["Felice C. Frankel"],
     "topics": [
@@ -3666,6 +3888,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/ab45021de5b90f35882afcbcfebaf303_RES-10001s16.jpg"
   },
   {
+    "lectureIdx": 222,
     "title": "Introductory Biology",
     "instructors": [
       "Prof. Hazel Sive",
@@ -3688,6 +3911,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2013/7ab23aa4f8fa16499c8ff2e2f74a95a5_7-013s13.jpg"
   },
   {
+    "lectureIdx": 223,
     "title": "String Theory and Holographic Duality",
     "instructors": ["Prof. Hong Liu"],
     "topics": [
@@ -3704,6 +3928,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-821-string-theory-and-holographic-duality-fall-2014/529bf14b1b4a356d33946b186a3181a5_8-821f14.jpg"
   },
   {
+    "lectureIdx": 224,
     "title": "Differential Equations",
     "instructors": [
       "Prof. Arthur Mattuck",
@@ -3719,6 +3944,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/41623c6eccbf82e137bebd7e69b8a4d8_18-03scf11.jpg"
   },
   {
+    "lectureIdx": 225,
     "title": "Toy Product Design",
     "instructors": ["Prof. David Wallace"],
     "topics": [
@@ -3735,6 +3961,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/2-00b-toy-product-design-spring-2021/0b041769992e2841d2d316087eedb2cb_2-00bs21.jpg"
   },
   {
+    "lectureIdx": 226,
     "title": "Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I",
     "instructors": ["Dr. Herman Karl", "Prof. Lawrence Susskind"],
     "topics": [
@@ -3753,6 +3980,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/c7b0a28620632f7a7f1e3104d03ae80f_11-941f03.jpg"
   },
   {
+    "lectureIdx": 227,
     "title": "Intentional Public Disruptions: Art, Responsibility, and Pedagogy",
     "instructors": ["B. Stephen Carpenter II", "Prof. Lawrence Susskind"],
     "topics": [
@@ -3775,6 +4003,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017/81234111740c864e9a34866bc6279b34_RES-11-002f17.jpg"
   },
   {
+    "lectureIdx": 228,
     "title": "Vibrations and Waves Problem Solving",
     "instructors": ["Prof. Wit Busza"],
     "topics": ["Science", "Physics", "Classical Mechanics", "Electromagnetism"],
@@ -3785,6 +4014,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/21baaf5086dee18b81aba855e0cc34cd_res-8-005f12.jpg"
   },
   {
+    "lectureIdx": 229,
     "title": "Classical Mechanics",
     "instructors": [
       "Prof. Deepto Chakrabarty",
@@ -3801,6 +4031,7 @@
     "thumbnailUrl": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/424dd4989c1235387a32fbb5a17b80c1_8-01scf16.jpg"
   },
   {
+    "lectureIdx": 230,
     "title": "Cosmic Origin of the Chemical Elements ",
     "instructors": ["Prof. Anna Frebel"],
     "topics": [
