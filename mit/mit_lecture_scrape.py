@@ -45,6 +45,7 @@ def get_lecture_info():
       "levels": levels,
       "description": description,
       "thumbnailUrl": thumbnail_url,
+      "lectureLink": url
     })
     print(idx)
     

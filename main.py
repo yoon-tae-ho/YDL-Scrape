@@ -6,8 +6,8 @@ from mit.check_nav_types import check_nav_types
 
 start_time = time.time()
 
-# get_lecture_info()
-get_video_info()
+get_lecture_info()
+# get_video_info()
 # check_nav_types()
 
 end_time = time.time()

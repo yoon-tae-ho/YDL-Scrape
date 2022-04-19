@@ -16,7 +16,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This graduate-level course is a continuation of Mathematical Methods for Engineers I (18.085). Topics include numerical methods; initial-value problems; network flows; and optimization.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/fc63428cc87099845fc54fbf63770e86_18-086s06.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/fc63428cc87099845fc54fbf63770e86_18-086s06.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/"
   },
   {
     "lectureIdx": 1,
@@ -36,7 +37,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course is for students wishing to explore blockchain technology\u2019s potential use\u00e2\u0080\u0094by entrepreneurs and incumbents\u00e2\u0080\u0094to change the world of money and finance. The course begins with a review of Bitcoin and an understanding of the commercial, technical, and public policy fundamentals of blockchain technology, distributed ledgers, and smart contracts. The class then continues on to current and potential blockchain applications in the financial sector.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/bb820e6651426bde62c060277dfbb042_15-S12F18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/bb820e6651426bde62c060277dfbb042_15-S12F18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/"
   },
   {
     "lectureIdx": 2,
@@ -53,7 +55,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course introduces the core theory of modern financial economics and financial management, with a focus on capital markets and investments. Topics include functions of capital markets and financial intermediaries, asset valuation, fixed-income securities, common stocks, capital budgeting, diversification and portfolio selection, equilibrium pricing of risky assets, the theory of efficient markets, and an introduction to derivatives and options.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/5ec2e66e89b03d5c5c7806672a26167e_15-401f08.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/5ec2e66e89b03d5c5c7806672a26167e_15-401f08.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/"
   },
   {
     "lectureIdx": 3,
@@ -64,7 +67,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "In virtually every industry and every firm, information technology is driving change, creating opportunities and challenges. Leaders who don\u2019t understand at least the fundamentals of information systems will be at a strategic disadvantage. This course provides broad coverage of technology concepts and trends underlying current and future developments in information technology, and fundamental principles for the effective use of computer-based information systems. There will be a special emphasis on manufacturing. Information Systems topics that will be covered include networks and distributed computing, including the World Wide Web, hardware and operating systems, software development tools and processes, relational databases, security and cryptography, enterprise applications, B2B, the semantic web and electronic commerce. Sloan LFM students with an interest in Information Systems are encouraged to register for this course.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/789bdc295d5ff9dc22f1639cb3023551_15-566s03.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/789bdc295d5ff9dc22f1639cb3023551_15-566s03.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/"
   },
   {
     "lectureIdx": 4,
@@ -75,7 +79,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course offers an in-depth the theoretical foundations for statistical methods that are useful in many applications. The goal is to understand the role of mathematics in the research and development of efficient statistical methods.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/de1506da626801272f3f35bb8412e638_18-650f16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/de1506da626801272f3f35bb8412e638_18-650f16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/"
   },
   {
     "lectureIdx": 5,
@@ -91,7 +96,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/78c8aad99135431364661fa7434333e2_18-02f07.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/78c8aad99135431364661fa7434333e2_18-02f07.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/"
   },
   {
     "lectureIdx": 6,
@@ -102,7 +108,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This introductory calculus course covers differentiation and integration of functions of one variable, with applications.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/24c4a7d9cd569a82ef34a8563e50add8_18-01f06.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/24c4a7d9cd569a82ef34a8563e50add8_18-01f06.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/"
   },
   {
     "lectureIdx": 7,
@@ -119,7 +126,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course is designed to acquaint students with a variety of approaches to the past used by historians writing in the twentieth century. The books we read have all made significant contributions to their respective sub-fields and have been selected to give as wide a coverage in both field and methodology as possible in one semester\u2019s worth of reading. We examine how historians conceive of their object of study, how they use primary sources as a basis for their accounts, how they structure the narrative and analytic discussion of their topic, and what are the advantages and drawbacks of their various approaches.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2004/d12bd9fbc1d02f4389f68e047c1f4ceb_21h-931s04.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2004/d12bd9fbc1d02f4389f68e047c1f4ceb_21h-931s04.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2004/"
   },
   {
     "lectureIdx": 8,
@@ -135,7 +143,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "4.125 is the third undergraduate design studio. This subject introduces skills needed to build within a landscape establishing continuities between the built and natural world. Students learn to build appropriately through analysis of landscape and climate for a chosen site, and to conceptualize design decisions through drawings and models.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/4-125-architecture-studio-building-in-landscapes-fall-2002/f83ae2cf0d90b155781c3825100491da_4-125f02.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/4-125-architecture-studio-building-in-landscapes-fall-2002/f83ae2cf0d90b155781c3825100491da_4-125f02.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/4-125-architecture-studio-building-in-landscapes-fall-2002/"
   },
   {
     "lectureIdx": 9,
@@ -146,7 +155,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate", "Graduate"],
     "description": "Psychology and Economics (aka Behavioral Economics) is a growing subfield of economics that incorporates insights from psychology and other social sciences into economics. This course covers recent advances in behavioral economics by reviewing some of the assumptions made\u00c2\u00a0in mainstream economic models, and by discussing how human behavior systematically departs from these assumptions.\u00c2\u00a0Applications will cover a wide range of fields, including labor and public economics, industrial organization, health economics, finance, and development economics.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/14-13-psychology-and-economics-spring-2020/54c907ff4b73578998347a493375ad0c_14-13s20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/14-13-psychology-and-economics-spring-2020/54c907ff4b73578998347a493375ad0c_14-13s20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/14-13-psychology-and-economics-spring-2020/"
   },
   {
     "lectureIdx": 10,
@@ -177,7 +187,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Non Credit"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/6c42c4fa9fd610ae5240d92dacf971a5_res-env-001iap17.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/6c42c4fa9fd610ae5240d92dacf971a5_res-env-001iap17.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/"
   },
   {
     "lectureIdx": 11,
@@ -188,7 +199,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course will thoroughly educate the successful student with the knowledge and skills necessary to be a certified beginning SCUBA diver. The prerequisite for the course is passing the MIT SCUBA swim test and demonstrating a \u201ccomfort level\u201d in the water. At the end of the class, students will attempt to pass the certification exam to become certified divers. The class is taught in two parts each week: a classroom session and a pool session. The classroom sessions along with the reading material will provide the student with the knowledge necessary to pass the written exam. At the pool, the water skills are taught in progressions that build on the previous skills, making the difficult skills seem easy.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/6b45d9859e5da887fd7b263e80da3f0e_pe-210s07.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/6b45d9859e5da887fd7b263e80da3f0e_pe-210s07.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/"
   },
   {
     "lectureIdx": 12,
@@ -206,7 +218,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course focuses on science and technology policy\u00e2\u0080\u0094it will examine the science and technology innovation system, including case studies on energy, computing, advanced manufacturing, and health sectors, with an emphasis on public policy and the federal government\u2019s role in that system.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/9ae6895d9c36f212a37890131aeeb259_sts-081js17.JPG"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/9ae6895d9c36f212a37890131aeeb259_sts-081js17.JPG",
+    "lectureLink": "https://ocw.mit.edu/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/"
   },
   {
     "lectureIdx": 13,
@@ -221,7 +234,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/f79f55df6aae6289ed44a7170e19acd0_6-046jf05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/f79f55df6aae6289ed44a7170e19acd0_6-046jf05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/"
   },
   {
     "lectureIdx": 14,
@@ -238,7 +252,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/cfc114d5c85a0a7c7be2f638d18851ca_6-041f10.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/cfc114d5c85a0a7c7be2f638d18851ca_6-041f10.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/"
   },
   {
     "lectureIdx": 15,
@@ -257,7 +272,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/b2c2937f360b27a0d80099dc9fec7b8b_6-02f12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/b2c2937f360b27a0d80099dc9fec7b8b_6-02f12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/"
   },
   {
     "lectureIdx": 16,
@@ -273,7 +289,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-451-principles-of-digital-communication-ii-spring-2005/26272a054def6c3695d7d2ef7435104d_6-451s05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-451-principles-of-digital-communication-ii-spring-2005/26272a054def6c3695d7d2ef7435104d_6-451s05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-451-principles-of-digital-communication-ii-spring-2005/"
   },
   {
     "lectureIdx": 17,
@@ -284,7 +301,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This class will introduce students to a variety of contemporary art practices and ideas. The class will begin with a brief overview of \u2018visual language\u2019 by looking at a variety of artworks and discussing basic concepts revolving around artistic practice. The rest of the class will focus on notions of the real/unreal as explored with various mediums and practices. The class will work in video, sculpture and in public space.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/4-301-introduction-to-the-visual-arts-spring-2007/b419a6abe5137c9464d6b81395ae0b11_4-301s07.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/4-301-introduction-to-the-visual-arts-spring-2007/b419a6abe5137c9464d6b81395ae0b11_4-301s07.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/4-301-introduction-to-the-visual-arts-spring-2007/"
   },
   {
     "lectureIdx": 18,
@@ -300,7 +318,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/7e06e41aca118a296f881bd3c53a520f_8-06s18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/7e06e41aca118a296f881bd3c53a520f_8-06s18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/"
   },
   {
     "lectureIdx": 19,
@@ -311,7 +330,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This is an introductory graduate-level course on the phenomenology and experimental foundations of nuclear and particle physics, including the fundamental forces and particles, as well as composites. Emphasis is on the experimental establishment of the leading models, and the theoretical tools and experimental apparatus used to establish them.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/ab26e5922052acb98b149656576487f4_8-701f20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/ab26e5922052acb98b149656576487f4_8-701f20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/"
   },
   {
     "lectureIdx": 20,
@@ -334,7 +354,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course introduces quantitative approaches to understanding brain and cognitive functions. Topics include mathematical description of neurons, the response of neurons to sensory stimuli, simple neuronal networks, statistical inference and decision making. It also covers foundational quantitative tools of data analysis in neuroscience: correlation, convolution, spectral analysis, principal components analysis, and mathematical concepts including simple differential equations and linear algebra.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/45e32c888216f65a9424be2d8e80c3ba_9-40s18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/45e32c888216f65a9424be2d8e80c3ba_9-40s18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/"
   },
   {
     "lectureIdx": 21,
@@ -350,7 +371,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "6.858 Computer Systems Security is a class about the design and implementation of secure computer systems. Lectures cover threat models, attacks that compromise security, and techniques for achieving security, based on recent research papers. Topics include operating system (OS) security, capabilities, information flow control, language security, network protocols, hardware security, and security in web applications.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/90716014a03171bde18bc7138884136c_6-858f14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/90716014a03171bde18bc7138884136c_6-858f14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/"
   },
   {
     "lectureIdx": 22,
@@ -369,7 +391,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "To prosper, firms must develop major product and service innovations. Often, though, they don\u2019t know how. Recent research into the innovation process has made it possible to develop \u201cbreakthroughs\u201d systematically. 15.356 presents several practical concept development methods, such as the \u201cLead User Method,\u201d where manufacturers learn from innovative customers. Expert guest speakers present case studies that show the \u201cart\u201d required to implement a concept development method. 15.356 is a half-term subject.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/b752b33951623ddf62664ec89412aae9_15-356s04.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/b752b33951623ddf62664ec89412aae9_15-356s04.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/"
   },
   {
     "lectureIdx": 23,
@@ -380,7 +403,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "In virtually every industry and every firm, information technology is driving change, creating opportunities and challenges. Leaders who don\u2019t understand at least the fundamentals of information systems will be at a strategic disadvantage. This course provides broad coverage of technology concepts and trends underlying current and future developments in information technology, and fundamental principles for the effective use of computer-based information systems. There will be a special emphasis on manufacturing. Information Systems topics that will be covered include networks and distributed computing, including the World Wide Web, hardware and operating systems, software development tools and processes, relational databases, security and cryptography, enterprise applications, B2B, the semantic web and electronic commerce. Sloan LFM students with an interest in Information Systems are encouraged to register for this course.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/789bdc295d5ff9dc22f1639cb3023551_15-566s03.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/789bdc295d5ff9dc22f1639cb3023551_15-566s03.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/"
   },
   {
     "lectureIdx": 24,
@@ -401,7 +425,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course explores statistical modeling and control in manufacturing processes. Topics include the use of experimental design and response surface modeling to understand manufacturing process physics, as well as defect and parametric yield modeling and optimization. Various forms of process control, including statistical process control, run by run and adaptive control, and real-time feedback control, are covered. Application contexts include semiconductor manufacturing, conventional metal and polymer processing, and emerging micro-nano manufacturing processes.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/c4ed2a9caafe774be2fcf2d8985b872d_2-830js08.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/c4ed2a9caafe774be2fcf2d8985b872d_2-830js08.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/"
   },
   {
     "lectureIdx": 25,
@@ -420,7 +445,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course is a seminar on creativity in art, science, and technology. We discuss how these pursuits are jointly dependent on affective as well as cognitive elements in human nature.\u00c2\u00a0We study feeling and imagination in relation to principles of idealization, consummation, and the aesthetic values that give meaning to science and technology as well as literature and the other arts. Readings in philosophy, psychology, and literature are part of the course.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/b728ae0a3938a1c23b954899dabfa996_24-262s04.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/b728ae0a3938a1c23b954899dabfa996_24-262s04.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/"
   },
   {
     "lectureIdx": 26,
@@ -431,7 +457,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course is a seminar on the nature of love and sex, approached as topics both in philosophy and in literature. Readings from recent philosophy as well as classic myths of love that occur in works of literature and lend themselves to philosophical analysis.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/24-261-philosophy-of-love-in-the-western-world-fall-2004/19f09fe520ee2a990e8379ad4d232b52_24-261f04.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/24-261-philosophy-of-love-in-the-western-world-fall-2004/19f09fe520ee2a990e8379ad4d232b52_24-261f04.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/24-261-philosophy-of-love-in-the-western-world-fall-2004/"
   },
   {
     "lectureIdx": 27,
@@ -458,7 +485,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/18a4814f0b288b043938e002722e19b4_2-627f13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/18a4814f0b288b043938e002722e19b4_2-627f13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/"
   },
   {
     "lectureIdx": 28,
@@ -475,7 +503,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course builds on the composition techniques practiced in 21M.303 Writing in Tonal Forms I. Students undertake further written and analytic exercises in tonal music, including a sonata-form movement for string quartet. Students will also have the opportunity to write short works that experiment with the expanded tonal techniques of the late 19th and early 20th centuries. Musicianship laboratory is required.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-304-writing-in-tonal-forms-ii-spring-2009/1df0c487aead3c48ffb4cf9fe70bc589_21m-304s09.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-304-writing-in-tonal-forms-ii-spring-2009/1df0c487aead3c48ffb4cf9fe70bc589_21m-304s09.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21m-304-writing-in-tonal-forms-ii-spring-2009/"
   },
   {
     "lectureIdx": 29,
@@ -492,7 +521,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This class explores composition and arrangement for the large jazz ensemble from 1920s foundations to current postmodern practice. Consideration given to a variety of styles and to the interaction of improvisation and composition. Study of works by Basie, Ellington, Evans, Gillespie, Golson, Mingus, Morris, Nelson, Williams, and others. Open rehearsals, workshops, and performances of student compositions by the MIT Festival Jazz Ensemble and the Aardvark Jazz Orchestra.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/1e85cde7e6f028195580be56c5d48f93_21m-342f08.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/1e85cde7e6f028195580be56c5d48f93_21m-342f08.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/"
   },
   {
     "lectureIdx": 30,
@@ -508,7 +538,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "6.858 Computer Systems Security is a class about the design and implementation of secure computer systems. Lectures cover threat models, attacks that compromise security, and techniques for achieving security, based on recent research papers. Topics include operating system (OS) security, capabilities, information flow control, language security, network protocols, hardware security, and security in web applications.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/90716014a03171bde18bc7138884136c_6-858f14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/90716014a03171bde18bc7138884136c_6-858f14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/"
   },
   {
     "lectureIdx": 31,
@@ -529,7 +560,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/e03cdfdf29c927bbd8762a2e8132e4c1_3-320s05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/e03cdfdf29c927bbd8762a2e8132e4c1_3-320s05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/"
   },
   {
     "lectureIdx": 32,
@@ -540,7 +572,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This is an introductory graduate-level course on the phenomenology and experimental foundations of nuclear and particle physics, including the fundamental forces and particles, as well as composites. Emphasis is on the experimental establishment of the leading models, and the theoretical tools and experimental apparatus used to establish them.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/ab26e5922052acb98b149656576487f4_8-701f20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/ab26e5922052acb98b149656576487f4_8-701f20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/"
   },
   {
     "lectureIdx": 33,
@@ -563,7 +596,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course introduces quantitative approaches to understanding brain and cognitive functions. Topics include mathematical description of neurons, the response of neurons to sensory stimuli, simple neuronal networks, statistical inference and decision making. It also covers foundational quantitative tools of data analysis in neuroscience: correlation, convolution, spectral analysis, principal components analysis, and mathematical concepts including simple differential equations and linear algebra.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/45e32c888216f65a9424be2d8e80c3ba_9-40s18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/45e32c888216f65a9424be2d8e80c3ba_9-40s18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/"
   },
   {
     "lectureIdx": 34,
@@ -581,7 +615,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course is an investigation into the history and aesthetics of music and technology as deployed in experimental and popular musics from the 19th century to the present. Through original research, creative hands-on projects, readings, and lectures, the following topics will be explored. The history of radio, audio recording, and the recording studio, as well as the development of musique concr\u00c3\u00a8te and early electronic instruments. The creation and extension of musical interfaces by composers such as Harry Partch, John Cage, Conlon Nancarrow, and others. The exploration of electromagnetic technologies in pickups, and the development of dub, hip-hop, and turntablism. The history and application of the analog synthesizer, from the Moog modular to the Roland TR-808. The history of computer music, including music synthesis and representation languages. Contemporary practices in circuit bending, live electronics, and electro-acoustic music, as well as issues in copyright and intellectual property, will also be examined. No prerequisites.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/6e51158e51681200dbec82e20a4a9a41_21m-380f09.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/6e51158e51681200dbec82e20a4a9a41_21m-380f09.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/"
   },
   {
     "lectureIdx": 35,
@@ -603,7 +638,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/7bc5155780b293a6bc5a37c8d0911886_2-993iap07.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/7bc5155780b293a6bc5a37c8d0911886_2-993iap07.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/"
   },
   {
     "lectureIdx": 36,
@@ -619,7 +655,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-451-principles-of-digital-communication-ii-spring-2005/26272a054def6c3695d7d2ef7435104d_6-451s05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-451-principles-of-digital-communication-ii-spring-2005/26272a054def6c3695d7d2ef7435104d_6-451s05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-451-principles-of-digital-communication-ii-spring-2005/"
   },
   {
     "lectureIdx": 37,
@@ -635,7 +672,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/948b2075b983fdf29b8518199e5db13c_res-18-008f11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/948b2075b983fdf29b8518199e5db13c_res-18-008f11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/"
   },
   {
     "lectureIdx": 38,
@@ -653,7 +691,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course focuses on science and technology policy\u00e2\u0080\u0094it will examine the science and technology innovation system, including case studies on energy, computing, advanced manufacturing, and health sectors, with an emphasis on public policy and the federal government\u2019s role in that system.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/9ae6895d9c36f212a37890131aeeb259_sts-081js17.JPG"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/9ae6895d9c36f212a37890131aeeb259_sts-081js17.JPG",
+    "lectureLink": "https://ocw.mit.edu/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/"
   },
   {
     "lectureIdx": 39,
@@ -664,7 +703,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course will thoroughly educate the successful student with the knowledge and skills necessary to be a certified beginning SCUBA diver. The prerequisite for the course is passing the MIT SCUBA swim test and demonstrating a \u201ccomfort level\u201d in the water. At the end of the class, students will attempt to pass the certification exam to become certified divers. The class is taught in two parts each week: a classroom session and a pool session. The classroom sessions along with the reading material will provide the student with the knowledge necessary to pass the written exam. At the pool, the water skills are taught in progressions that build on the previous skills, making the difficult skills seem easy.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/6b45d9859e5da887fd7b263e80da3f0e_pe-210s07.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/6b45d9859e5da887fd7b263e80da3f0e_pe-210s07.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/"
   },
   {
     "lectureIdx": 40,
@@ -685,7 +725,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/e03cdfdf29c927bbd8762a2e8132e4c1_3-320s05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/e03cdfdf29c927bbd8762a2e8132e4c1_3-320s05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/"
   },
   {
     "lectureIdx": 41,
@@ -702,7 +743,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This participatory seminar focuses on the knowledge and skills necessary for teaching science and engineering in higher education. This course is designed for graduate students interested in an academic career, and anyone else interested in teaching. Readings and discussions include: teaching equations for understanding, designing exam and homework questions, incorporating histories of science, creating absorbing lectures, teaching for transfer, the evils of PowerPoint, and planning a course. The subject is appropriate for both novices and those with teaching experience.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/bf4f6bc7e2bc1f6a4dc237936a53e4fa_5-95js09.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/bf4f6bc7e2bc1f6a4dc237936a53e4fa_5-95js09.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/"
   },
   {
     "lectureIdx": 42,
@@ -723,7 +765,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course illuminates current theories about autism together with challenges faced by people on the autism spectrum. Theories in communicating, interacting socially, managing cognitive and affective overload, and achieving independent lifestyles are covered. In parallel, the course presents state-of-the-art technologies being developed for helping improve both theoretical understanding and practical outcomes. Participants are expected to meet and interact with people on the autism spectrum. Weekly reading, discussion, and a term project are required.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/d82a1ef249729b363656ab3592ad09ef_mas-771s11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/d82a1ef249729b363656ab3592ad09ef_mas-771s11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/"
   },
   {
     "lectureIdx": 43,
@@ -741,7 +784,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/14-772-development-economics-macroeconomics-spring-2013/c394de3ba76d9c2de7b5645fcec20c89_14-772s13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/14-772-development-economics-macroeconomics-spring-2013/c394de3ba76d9c2de7b5645fcec20c89_14-772s13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/14-772-development-economics-macroeconomics-spring-2013/"
   },
   {
     "lectureIdx": 44,
@@ -761,7 +805,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "Numerical methods for solving problems arising in heat and mass transfer, fluid mechanics, chemical reaction engineering, and molecular simulation. Topics: Numerical linear algebra, solution of nonlinear algebraic equations and ordinary differential equations, solution of partial differential equations (e.g. Navier-Stokes), numerical methods in molecular simulation (dynamics, geometry optimization). All methods are presented within the context of chemical engineering problems. Familiarity with structured programming is assumed.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/a76b08480d431902ca6c0f4873fbc0dc_10-34f15-1.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/a76b08480d431902ca6c0f4873fbc0dc_10-34f15-1.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/"
   },
   {
     "lectureIdx": 45,
@@ -781,7 +826,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course will examine literature and practice regarding community-owned enterprise as an alternative means of increasing community participation and development. The use of cooperatives, credit unions, land trusts, and limited stock ownership enterprises for increasing community participation and empowerment will be examined.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/91fe0dcb812ac63d8a563147a3379e8a_11-954s05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/91fe0dcb812ac63d8a563147a3379e8a_11-954s05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/"
   },
   {
     "lectureIdx": 46,
@@ -801,7 +847,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/11-309j-sensing-place-photography-as-inquiry-fall-2012/cb6820fd7e585e3e471fc7da64369639_11-309jf12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/11-309j-sensing-place-photography-as-inquiry-fall-2012/cb6820fd7e585e3e471fc7da64369639_11-309jf12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/11-309j-sensing-place-photography-as-inquiry-fall-2012/"
   },
   {
     "lectureIdx": 47,
@@ -825,7 +872,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "Bioengineering at MIT is represented by the diverse curricula offered by most Departments in the School of Engineering. This course samples the wide variety of bioengineering options for students who plan to major in one of the undergraduate Engineering degree programs. The beginning lectures describe the science basis for bioengineering with particular emphasis on molecular cell biology and systems biology. Bioengineering faculty will then describe the bioengineering options in a particular engineering course as well as the type of research conducted by faculty in the department.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/dbaac34b8f80d8fb3a3c315ae06e4865_20-010js06.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/dbaac34b8f80d8fb3a3c315ae06e4865_20-010js06.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/"
   },
   {
     "lectureIdx": 48,
@@ -850,7 +898,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course, organized as a series of lectures, aims to provide an interdisciplinary view of the history and current climate of nuclear weapons and non-proliferation policy. The first lecture begins the series by discusses nuclear developments in one of the world\u2019s most likely nuclear flash points, and the second lecture presents a broad discussion of the dangers of current nuclear weapons policies as well as evaluations of current situations and an outlook for future nuclear weapons reductions.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/48f6e3f8258a0efdf044cb2a5794790c_res-8-004iap15.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/48f6e3f8258a0efdf044cb2a5794790c_res-8-004iap15.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/"
   },
   {
     "lectureIdx": 49,
@@ -868,7 +917,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This seminar engages in the notion of space from various points of departure. The goal is first of all to engage in the term and secondly to examine possibilities of art, architecture within urban settings in order to produce what is your interpretation of space.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/8a3fa466a21d7f44621d53b43f0f73c4_4-303f06.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/8a3fa466a21d7f44621d53b43f0f73c4_4-303f06.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/"
   },
   {
     "lectureIdx": 50,
@@ -885,7 +935,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/5d678a4444544691af4c007574815543_15-s21iap14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/5d678a4444544691af4c007574815543_15-s21iap14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/"
   },
   {
     "lectureIdx": 51,
@@ -907,7 +958,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "The purpose of the class is to expose undergraduate and graduate students to the mathematical concepts and techniques used in the financial industry. Mathematics lectures are mixed with lectures illustrating the corresponding application in the financial industry. MIT mathematicians teach the mathematics part while industry professionals give the lectures on applications in finance.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/bb7de7f57ac6a5938118fc237a68d2b7_18-s096f13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/bb7de7f57ac6a5938118fc237a68d2b7_18-s096f13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/"
   },
   {
     "lectureIdx": 52,
@@ -918,7 +970,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/862a5bbedf159572528b0f0766d1e611_18-06s10.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/862a5bbedf159572528b0f0766d1e611_18-06s10.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/"
   },
   {
     "lectureIdx": 53,
@@ -934,7 +987,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course examines classical and modern developments in graph theory and additive combinatorics, with a focus on topics and themes that connect the two subjects. The course also introduces students to current research topics and open problems.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/4d718c615212994b720bf5ac6d4d5c0f_18-217f19.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/4d718c615212994b720bf5ac6d4d5c0f_18-217f19.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/"
   },
   {
     "lectureIdx": 54,
@@ -945,7 +999,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This is the second of a two-semester subject sequence beginning with Atomic and Optical Physics I (8.421) that provides the foundations for contemporary research in selected areas of atomic and optical physics. Topics covered include non-classical states of light\u00e2\u0080\u0093squeezed states; multi-photon processes, Raman scattering; coherence\u00e2\u0080\u0093level crossings, quantum beats, double resonance, superradiance; trapping and cooling-light forces, laser cooling, atom optics, spectroscopy of trapped atoms and ions; atomic interactions\u00e2\u0080\u0093classical collisions, quantum scattering theory, ultracold collisions; and experimental methods.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-422-atomic-and-optical-physics-ii-spring-2013/9e0e7b0a495fa128b8bac270422677a4_8-422s13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-422-atomic-and-optical-physics-ii-spring-2013/9e0e7b0a495fa128b8bac270422677a4_8-422s13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-422-atomic-and-optical-physics-ii-spring-2013/"
   },
   {
     "lectureIdx": 55,
@@ -962,7 +1017,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/05c7b1fd95fc1100e7528e7f1a0a2a2b_8-03scf16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/05c7b1fd95fc1100e7528e7f1a0a2a2b_8-03scf16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/"
   },
   {
     "lectureIdx": 56,
@@ -981,7 +1037,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/f34024b4a6e0408be2f1bad03292c841_6-849f12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/f34024b4a6e0408be2f1bad03292c841_6-849f12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/"
   },
   {
     "lectureIdx": 57,
@@ -992,7 +1049,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-286-the-early-universe-fall-2013/6048b3f78009b55a0e0ed59426799317_8-286f13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-286-the-early-universe-fall-2013/6048b3f78009b55a0e0ed59426799317_8-286f13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-286-the-early-universe-fall-2013/"
   },
   {
     "lectureIdx": 58,
@@ -1009,7 +1067,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/1bd0528076c75313960844cd7028ab92_mit3-091f18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/1bd0528076c75313960844cd7028ab92_mit3-091f18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/"
   },
   {
     "lectureIdx": 59,
@@ -1035,7 +1094,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "CMS.611J / 6.073 Creating Video Games is a class that introduces students to the complexities of working in small, multidisciplinary teams to develop video games. Students will learn creative design and production methods, working together in small teams to design, develop, and thoroughly test their own original digital games. Design iteration across all aspects of video game development (game design, audio design, visual aesthetics, fiction and programming) will be stressed. Students will also be required to focus test their games, and will need to support and challenge their game design decisions with appropriate focus testing and data analysis.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/68be269a8890549108049836924a39b2_cms-611jf14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/68be269a8890549108049836924a39b2_cms-611jf14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/"
   },
   {
     "lectureIdx": 60,
@@ -1052,7 +1112,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "The participants in this seminar will dive into learning basic conversational Italian, Italian culture, and the Mediterranean diet. Each class is based on the preparation of a delicious dish and on the bite-sized acquisition of parts of the Italian language and culture.\u00c2\u00a0 A good diet is not based on recipes only, it is also rooted in healthy habits and in culture. At the end of the seminar the participants will be able to cook some healthy and tasty recipes \u00c2\u00a0and to understand and speak basic Italian.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d0dde8482e079ce6210132b295d34fa3_es-s41s12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d0dde8482e079ce6210132b295d34fa3_es-s41s12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/"
   },
   {
     "lectureIdx": 61,
@@ -1071,7 +1132,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/533499c2943939be949d7aed93782793_7-01scf11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/533499c2943939be949d7aed93782793_7-01scf11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/"
   },
   {
     "lectureIdx": 62,
@@ -1090,7 +1152,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course covers theories about the form that settlements should take and attempts a distinction between descriptive and normative theory by examining examples of various theories of city form over time. Case studies will highlight the origins of the modern city and theories about its emerging form, including the transformation of the nineteenth-century city and its organization. Through examples and historical context, current issues of city form in relation to city-making, social structure, and physical design will also be discussed and analyzed.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/4-241j-theory-of-city-form-spring-2013/121f278b7066ebae182261855776df1e_4-241js13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/4-241j-theory-of-city-form-spring-2013/121f278b7066ebae182261855776df1e_4-241js13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/4-241j-theory-of-city-form-spring-2013/"
   },
   {
     "lectureIdx": 63,
@@ -1109,7 +1172,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course is intended to assist undergraduates with learning the basics of programming in general and programming MATLAB\u00c2\u00ae in particular.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/f5e3d4a851671a690f037c1f6e91abf9_18-s997f11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/f5e3d4a851671a690f037c1f6e91abf9_18-s997f11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/"
   },
   {
     "lectureIdx": 64,
@@ -1120,7 +1184,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate", "Graduate"],
     "description": "This course is designed for high-intermediate ESL students who need to develop better listening comprehension and oral skills, which will primarily be achieved by detailed instructions on pronunciation.\u00c2\u00a0Our focus will be on (1) producing accurate and intelligible English, (2) becoming more comfortable listening to rapidly spoken English, and (3) learning common expressions, gambits, and idioms used in both formal and informal contexts.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21g-223-listening-speaking-and-pronunciation-fall-2004/781c0167b8ca5112ea481d2f9836a2e9_21g-223f04.gif"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21g-223-listening-speaking-and-pronunciation-fall-2004/781c0167b8ca5112ea481d2f9836a2e9_21g-223f04.gif",
+    "lectureLink": "https://ocw.mit.edu/courses/21g-223-listening-speaking-and-pronunciation-fall-2004/"
   },
   {
     "lectureIdx": 65,
@@ -1131,7 +1196,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/4aca9caa520d6e6ce06d163f4c3ba7f8_14-01scf11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/4aca9caa520d6e6ce06d163f4c3ba7f8_14-01scf11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/"
   },
   {
     "lectureIdx": 66,
@@ -1151,7 +1217,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "The goal of this course is to explore and develop plans of action for improving the job and career opportunities for today and tomorrow\u2019s workforce. If we take the right actions we can shape the future of work in ways that meet the needs of workers, families, and their economies and societies. To do so we first have to understand how the world of work is changing, how firms can compete and prosper and support good jobs and careers, and how to update the policies and practices governing the world of work.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/a55670dbf5fc5344ca7164f239ab901a_res-15-003s16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/a55670dbf5fc5344ca7164f239ab901a_res-15-003s16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/"
   },
   {
     "lectureIdx": 67,
@@ -1162,7 +1229,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/150f1db23890c18ca7b3bdea6d64be88_6-00scf11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/150f1db23890c18ca7b3bdea6d64be88_6-00scf11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/"
   },
   {
     "lectureIdx": 68,
@@ -1184,7 +1252,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/f39077c65e71361964e2f2ffaa061426_res-16-001iap2012.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/f39077c65e71361964e2f2ffaa061426_res-16-001iap2012.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/"
   },
   {
     "lectureIdx": 69,
@@ -1207,7 +1276,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/1ef47499189cef79995e0dfa7138fb35_22-011s20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/1ef47499189cef79995e0dfa7138fb35_22-011s20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/"
   },
   {
     "lectureIdx": 70,
@@ -1227,7 +1297,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020/72b711e7f3cdf09f163c3af6327c1633_MIT3-15x.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020/72b711e7f3cdf09f163c3af6327c1633_MIT3-15x.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020/"
   },
   {
     "lectureIdx": 71,
@@ -1238,7 +1309,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-012sx-structure-of-materials-spring-2019/0a515ca484bae72371cd7160c367f1e3_MIT3.012Sx.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-012sx-structure-of-materials-spring-2019/0a515ca484bae72371cd7160c367f1e3_MIT3.012Sx.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-012sx-structure-of-materials-spring-2019/"
   },
   {
     "lectureIdx": 72,
@@ -1263,7 +1335,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/8105d6a6f77c14ba2abb9d42e0675cc8_11-969su05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/8105d6a6f77c14ba2abb9d42e0675cc8_11-969su05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/"
   },
   {
     "lectureIdx": 73,
@@ -1290,7 +1363,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/7518d9c8111daaf0764e4675f60e04ed_7-016f18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/7518d9c8111daaf0764e4675f60e04ed_7-016f18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/"
   },
   {
     "lectureIdx": 74,
@@ -1307,7 +1381,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/ddf384aecab5bc43975190d715fefe91_3-091scf10.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/ddf384aecab5bc43975190d715fefe91_3-091scf10.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/"
   },
   {
     "lectureIdx": 75,
@@ -1323,7 +1398,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/1330ee36bc695d9979be47aea3298576_res-6-008s11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/1330ee36bc695d9979be47aea3298576_res-6-008s11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/"
   },
   {
     "lectureIdx": 76,
@@ -1334,7 +1410,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/64244208708d59729ad2d6eaf4aca647_15-s50iap16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/64244208708d59729ad2d6eaf4aca647_15-s50iap16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/"
   },
   {
     "lectureIdx": 77,
@@ -1351,7 +1428,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course presents real-world examples in which quantitative methods provide a significant competitive edge that has led to a first order impact on some of today\u2019s most important companies. We outline the competitive landscape and present the key quantitative methods that created the edge (data-mining, dynamic optimization, simulation), and discuss their impact.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/64a9c191dbc2c2d349db7f00f49cfcd2_MIT15-071S17.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/64a9c191dbc2c2d349db7f00f49cfcd2_MIT15-071S17.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/"
   },
   {
     "lectureIdx": 78,
@@ -1370,7 +1448,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/bb0c0ca940d1039808d65232bc727196_18-085f08.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/bb0c0ca940d1039808d65232bc727196_18-085f08.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/"
   },
   {
     "lectureIdx": 79,
@@ -1381,7 +1460,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/"
   },
   {
     "lectureIdx": 80,
@@ -1404,7 +1484,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course is being offered in conjunction with the colloquium The Politics of Reconstructing Iraq, which is sponsored by MIT\u00e2\u0080\u0099s Center for International Studies and Department of Urban Studies and Planning. Fundamentally, the course focuses on contemporary post-conflict countries (or in-conflict countries) and the role of planning and reconstruction in building nations, mitigating conflicts, reshaping the social, spatial, geopolitical, and political life, and determining the country\u00e2\u0080\u0099s future.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/c4fb913723275a17d56b03209d0478c3_11-948s05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/c4fb913723275a17d56b03209d0478c3_11-948s05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/"
   },
   {
     "lectureIdx": 81,
@@ -1421,7 +1502,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course introduces students to the fundamentals of nonlinear optimization theory and methods. Topics include unconstrained and constrained optimization, linear and quadratic programming, Lagrange and conic duality theory, interior-point algorithms and theory, Lagrangian relaxation, generalized programming, and semi-definite programming. Algorithmic methods used in the class include steepest descent, Newton\u2019s method, conditional gradient and subgradient optimization, interior-point methods and penalty and barrier methods.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-084j-nonlinear-programming-spring-2004/ff0e11d61d4bc1f349c5671287716c25_15-084jf04.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-084j-nonlinear-programming-spring-2004/ff0e11d61d4bc1f349c5671287716c25_15-084jf04.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-084j-nonlinear-programming-spring-2004/"
   },
   {
     "lectureIdx": 82,
@@ -1443,7 +1525,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "The Springfield Studio is a practicum course that focuses on the economic, programmatic and social renewal of an urban community in Springfield, Massachusetts by combining classroom work with an applied class project. The course content covers the areas of neighborhood economic development and the related analysis and planning tools used to understand and assess urban conditions from an economic and community development perspective.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/11-945-springfield-studio-fall-2005/e420eaaf58e19c80bdf8d270a4312373_11-945f05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/11-945-springfield-studio-fall-2005/e420eaaf58e19c80bdf8d270a4312373_11-945f05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/11-945-springfield-studio-fall-2005/"
   },
   {
     "lectureIdx": 83,
@@ -1463,7 +1546,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course is an introductory exploration of documentary film theory and production, focusing on documentaries about science, engineering, and related fields. Students engage in digital video production as well as social and media analysis of science documentaries. Readings are drawn from social studies of science as well as from documentary film theory. The courses uses documentary video making as a tool to explore the worlds of science and engineering, as well as a tool for thinking analytically about media itself and the social worlds in which science is embedded. The course includes a hands-on lab component devoted to digital video production, in addition to classroom lectures and in-class film screenings.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/0e4f4a9f190db492a6890d5dc8539cf1_21a-550jf12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/0e4f4a9f190db492a6890d5dc8539cf1_21a-550jf12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/"
   },
   {
     "lectureIdx": 84,
@@ -1483,7 +1567,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "Humans are social animals; social demands, both cooperative and competitive, structure our development, our brain and our mind. This course covers social development, social behaviour, social cognition and social neuroscience, in both human and non-human social animals. Topics include altruism, empathy, communication, theory of mind, aggression, power, groups, mating, and morality. Methods include evolutionary biology, neuroscience, cognitive science, social psychology and anthropology.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2010/6991124f0da63e0b805e876b60d9d077_21l-448jf10.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2010/6991124f0da63e0b805e876b60d9d077_21l-448jf10.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2010/"
   },
   {
     "lectureIdx": 85,
@@ -1501,7 +1586,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "The first two weeks of this course are an overview of performing improvisation with introductory and advanced exercises in the techniques of improvisation.\u00c2\u00a0The final four weeks focus on applying these concepts in business situations to practice and mastering these improvisation tools in leadership learning.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/f234d7e6cfdcb3a840c9b2c73a91d11a_15-969f04.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/f234d7e6cfdcb3a840c9b2c73a91d11a_15-969f04.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/"
   },
   {
     "lectureIdx": 86,
@@ -1519,7 +1605,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course examines problems in the philosophy of film as well as literature studied in relation to their making of myths. The readings and films that are discussed in this course draw upon classic myths of the western world. Emphasis is placed on meaning and technique as the basis of creative value in both media.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/24-264-film-as-visual-and-literary-mythmaking-fall-2005/17132134704e4927bb783966e84880fe_24-264f05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/24-264-film-as-visual-and-literary-mythmaking-fall-2005/17132134704e4927bb783966e84880fe_24-264f05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/24-264-film-as-visual-and-literary-mythmaking-fall-2005/"
   },
   {
     "lectureIdx": 87,
@@ -1539,7 +1626,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "Parallel treatments of photons, electrons, phonons, and molecules as energy carriers, aiming at fundamental understanding and descriptive tools for energy and heat transport processes from nanoscale continuously to macroscale. Topics include the energy levels, the statistical behavior and internal energy, energy transport in the forms of waves and particles, scattering and heat generation processes, Boltzmann equation and derivation of classical laws, deviation from classical laws at nanoscale and their appropriate descriptions, with applications in nano- and microtechnology.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/2-57-nano-to-macro-transport-processes-spring-2012/8e9a0b217b3fd7ff26c22985b770de69_2-57s12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/2-57-nano-to-macro-transport-processes-spring-2012/8e9a0b217b3fd7ff26c22985b770de69_2-57s12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/2-57-nano-to-macro-transport-processes-spring-2012/"
   },
   {
     "lectureIdx": 88,
@@ -1550,7 +1638,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "\u201cParrhesia\u201d was an Athenian right to frank and open speaking, the right that, like the First Amendment, demands a \u201cfearless speaker\u201d who must challenge political powers with criticism and unsolicited advice. Can designer and artist respond today to such a democratic call and demand? Is it possible to do so despite the (increasing) restrictions imposed on our liberties today? Can the designer or public artist operate as a proactive \u201cparrhesiatic\u201d agent and contribute to the protection, development and dissemination of \u201cfearless speaking\u201d in Public Space?",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/4-370-interrogative-design-workshop-fall-2005/768958767e6302f3e2a1365ab738d72e_4-370f05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/4-370-interrogative-design-workshop-fall-2005/768958767e6302f3e2a1365ab738d72e_4-370f05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/4-370-interrogative-design-workshop-fall-2005/"
   },
   {
     "lectureIdx": 89,
@@ -1561,7 +1650,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/aac3f83963cf867b65f821a0fa92829b_5-61f17.JPG"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/aac3f83963cf867b65f821a0fa92829b_5-61f17.JPG",
+    "lectureLink": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/"
   },
   {
     "lectureIdx": 90,
@@ -1578,7 +1668,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course is an advanced treatment of biochemical mechanisms that underlie biological processes. Topics include macromolecular machines such as the ribosome, the proteasome, fatty acid synthases as a paradigm for polyketide synthases and non-ribosomal polypeptide synthases, and polymerases. Emphasis will be given to the experimental methods used to unravel how these processes fit into the cellular context as well as the coordinated regulation of these processes.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-08j-biological-chemistry-ii-spring-2016/ca743816abd0bff648c7ead87a38d087_5-08js16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-08j-biological-chemistry-ii-spring-2016/ca743816abd0bff648c7ead87a38d087_5-08js16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/5-08j-biological-chemistry-ii-spring-2016/"
   },
   {
     "lectureIdx": 91,
@@ -1594,7 +1685,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/d9b969b1e9e2029d7e9b9e2c9324dde4_6-0002f16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/d9b969b1e9e2029d7e9b9e2c9324dde4_6-0002f16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/"
   },
   {
     "lectureIdx": 92,
@@ -1605,7 +1697,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/057c5af7b1e9cccd3b069dfe3797a5c8_6-002s07.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/057c5af7b1e9cccd3b069dfe3797a5c8_6-002s07.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/"
   },
   {
     "lectureIdx": 93,
@@ -1622,7 +1715,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course introduces architecture of digital systems, emphasizing structural principles common to a wide range of technologies. It covers the topics including multilevel implementation strategies, definition of new primitives (e.g., gates, instructions, procedures, processes) and their mechanization using lower-level elements. It also includes analysis of potential concurrency, precedence constraints and performance measures, pipelined and multidimensional systems, instruction set design issues and architectural support for contemporary software structures.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/3a6d35b0390ffb5180ed20f5fadd63db_6-004S17.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/3a6d35b0390ffb5180ed20f5fadd63db_6-004S17.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/"
   },
   {
     "lectureIdx": 94,
@@ -1637,7 +1731,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/1075c5ac06ae4c2cea8c89e9772da78a_6-006f11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/1075c5ac06ae4c2cea8c89e9772da78a_6-006f11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/"
   },
   {
     "lectureIdx": 95,
@@ -1658,7 +1753,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/ec-711-d-lab-energy-spring-2011/904b1bf01a94f63a980908933b86bfda_ec-711s11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/ec-711-d-lab-energy-spring-2011/904b1bf01a94f63a980908933b86bfda_ec-711s11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/ec-711-d-lab-energy-spring-2011/"
   },
   {
     "lectureIdx": 96,
@@ -1669,7 +1765,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "Effective field theory is a fundamental framework to describe physical systems with quantum field theory. Part I of this course covers common tools used in effective theories. Part II is an in depth study of the Soft-Collinear Effective Theory (SCET), an effective theory for hard interactions in collider physics.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-851-effective-field-theory-spring-2013/d0e8a576881c7d6b944b3d2c78a5515e_8-851s13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-851-effective-field-theory-spring-2013/d0e8a576881c7d6b944b3d2c78a5515e_8-851s13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-851-effective-field-theory-spring-2013/"
   },
   {
     "lectureIdx": 97,
@@ -1680,7 +1777,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "8.962 is MIT\u2019s graduate course in general relativity, which covers the basic principles of Einstein\u2019s general theory of relativity, differential geometry, experimental tests of general relativity, black holes, and cosmology.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-962-general-relativity-spring-2020/450241916ecfacb4b9810cf958762651_8-962s20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-962-general-relativity-spring-2020/450241916ecfacb4b9810cf958762651_8-962s20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-962-general-relativity-spring-2020/"
   },
   {
     "lectureIdx": 98,
@@ -1698,7 +1796,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "6.172 is an 18-unit class that provides a hands-on, project-based introduction to building scalable and high-performance software systems. Topics include performance analysis, algorithmic techniques for high performance, instruction-level optimizations, caching optimizations, parallel programming, and building scalable systems. The course programming language is C.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/2ea5b1550197db095fcb82df55203675_6-172f18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/2ea5b1550197db095fcb82df55203675_6-172f18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/"
   },
   {
     "lectureIdx": 99,
@@ -1714,7 +1813,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This class builds a bridge between the recreational world of algorithmic puzzles (puzzles that can be solved by algorithms) and the pragmatic world of computer programming, teaching students to program while solving puzzles. Python syntax and semantics required to understand the code are explained as needed for each puzzle.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/8a47e175cc72845e080f083fcfbc7c29_6-S095IAP18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/8a47e175cc72845e080f083fcfbc7c29_6-S095IAP18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/"
   },
   {
     "lectureIdx": 100,
@@ -1732,7 +1832,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/7a9458fa1205ca527ba893f8188b6933_6-370iap13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/7a9458fa1205ca527ba893f8188b6933_6-370iap13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/"
   },
   {
     "lectureIdx": 101,
@@ -1747,7 +1848,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "Discrete stochastic processes are essentially probabilistic systems that evolve in time via random changes occurring at discrete fixed or random intervals. This course aims to help students acquire both the mathematical principles and the intuition necessary to create, analyze, and understand insightful models for a broad range of these processes. The range of areas for which discrete stochastic-process models are useful is constantly expanding, and includes many applications in engineering, physics, biology, operations research and finance.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/c9c28d7dc814c64c1f71a121b85dac7f_6-262s11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/c9c28d7dc814c64c1f71a121b85dac7f_6-262s11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/"
   },
   {
     "lectureIdx": 102,
@@ -1766,7 +1868,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "The goal of this course is to illustrate the spectroscopy of small molecules in the gas phase: quantum mechanical effective Hamiltonian models for rotational, vibrational, and electronic structure; transition selection rules and relative intensities; diagnostic patterns and experimental methods for the assignment of non-textbook spectra; breakdown of the Born-Oppenheimer approximation (spectroscopic perturbations); the stationary phase approximation; nondegenerate and quasidegenerate perturbation theory (van Vleck transformation); qualitative molecular orbital theory (Walsh diagrams); the notation of atomic and molecular spectroscopy.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/1f1e281d715b992b19eb4f3a56e58e34_5-80f08.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/1f1e281d715b992b19eb4f3a56e58e34_5-80f08.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/"
   },
   {
     "lectureIdx": 103,
@@ -1777,7 +1880,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/aac3f83963cf867b65f821a0fa92829b_5-61f17.JPG"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/aac3f83963cf867b65f821a0fa92829b_5-61f17.JPG",
+    "lectureLink": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/"
   },
   {
     "lectureIdx": 104,
@@ -1794,7 +1898,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course covers topics in time-dependent quantum mechanics, spectroscopy, and relaxation, with an emphasis on descriptions applicable to condensed phase problems and a statistical description of ensembles.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/7de906d303891bb0d15bfb4e75da6434_5-74s09.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/7de906d303891bb0d15bfb4e75da6434_5-74s09.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/"
   },
   {
     "lectureIdx": 105,
@@ -1814,7 +1919,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "Humans are social animals; social demands, both cooperative and competitive, structure our development, our brain and our mind. This course covers social development, social behaviour, social cognition and social neuroscience, in both human and non-human social animals. Topics include altruism, empathy, communication, theory of mind, aggression, power, groups, mating, and morality. Methods include evolutionary biology, neuroscience, cognitive science, social psychology and anthropology.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2010/6991124f0da63e0b805e876b60d9d077_21l-448jf10.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2010/6991124f0da63e0b805e876b60d9d077_21l-448jf10.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2010/"
   },
   {
     "lectureIdx": 106,
@@ -1825,7 +1931,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/057c5af7b1e9cccd3b069dfe3797a5c8_6-002s07.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/057c5af7b1e9cccd3b069dfe3797a5c8_6-002s07.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/"
   },
   {
     "lectureIdx": 107,
@@ -1841,7 +1948,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/d9b969b1e9e2029d7e9b9e2c9324dde4_6-0002f16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/d9b969b1e9e2029d7e9b9e2c9324dde4_6-0002f16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/"
   },
   {
     "lectureIdx": 108,
@@ -1861,7 +1969,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "Parallel treatments of photons, electrons, phonons, and molecules as energy carriers, aiming at fundamental understanding and descriptive tools for energy and heat transport processes from nanoscale continuously to macroscale. Topics include the energy levels, the statistical behavior and internal energy, energy transport in the forms of waves and particles, scattering and heat generation processes, Boltzmann equation and derivation of classical laws, deviation from classical laws at nanoscale and their appropriate descriptions, with applications in nano- and microtechnology.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/2-57-nano-to-macro-transport-processes-spring-2012/8e9a0b217b3fd7ff26c22985b770de69_2-57s12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/2-57-nano-to-macro-transport-processes-spring-2012/8e9a0b217b3fd7ff26c22985b770de69_2-57s12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/2-57-nano-to-macro-transport-processes-spring-2012/"
   },
   {
     "lectureIdx": 109,
@@ -1878,7 +1987,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course introduces architecture of digital systems, emphasizing structural principles common to a wide range of technologies. It covers the topics including multilevel implementation strategies, definition of new primitives (e.g., gates, instructions, procedures, processes) and their mechanization using lower-level elements. It also includes analysis of potential concurrency, precedence constraints and performance measures, pipelined and multidimensional systems, instruction set design issues and architectural support for contemporary software structures.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/3a6d35b0390ffb5180ed20f5fadd63db_6-004S17.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/3a6d35b0390ffb5180ed20f5fadd63db_6-004S17.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/"
   },
   {
     "lectureIdx": 110,
@@ -1889,7 +1999,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/7cc0f4ea3cbe6ba10f16c1bad81fb872_RES-18-010S20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/7cc0f4ea3cbe6ba10f16c1bad81fb872_RES-18-010S20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/"
   },
   {
     "lectureIdx": 111,
@@ -1900,7 +2011,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/cb8e1aff341a8c610d2d664c7d4abb63_res-21g-506.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/cb8e1aff341a8c610d2d664c7d4abb63_res-21g-506.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/"
   },
   {
     "lectureIdx": 112,
@@ -1916,7 +2028,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course covers the fundamentals of astrodynamics, focusing on the two-body orbital initial-value and boundary-value problems with applications to space vehicle navigation and guidance for lunar and planetary missions, including both powered flight and midcourse maneuvers. Other topics include celestial mechanics, Kepler\u2019s problem, Lambert\u2019s problem, orbit determination, multi-body methods, mission planning, and recursive algorithms for space navigation. Selected applications from the Apollo, Space Shuttle, and Mars exploration programs are also discussed.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/16-346-astrodynamics-fall-2008/77986f60806567e9ae5ef12bd3f6d759_16-346f08.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/16-346-astrodynamics-fall-2008/77986f60806567e9ae5ef12bd3f6d759_16-346f08.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/16-346-astrodynamics-fall-2008/"
   },
   {
     "lectureIdx": 113,
@@ -1942,7 +2055,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate", "Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/b377f0dca384373dca6f4baefd462e9b_hst-s14s12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/b377f0dca384373dca6f4baefd462e9b_hst-s14s12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/"
   },
   {
     "lectureIdx": 114,
@@ -1961,7 +2075,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course examines the history of MIT through the lens of the broader history of science and technology, and vice versa. The course covers the founding of MIT in 1861 and goes through the present, including such topics as William Barton Rogers, educational philosophy, biographies of MIT students and professors, intellectual and organizational development, the role of science, changing laboratories and practices, and MIT\u2019s relationship with Boston, the federal government, and industry. Assignments include short papers, presentations, and final paper. A number of classes are concurrent with the MIT150 Symposia.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/004754980a4063dc1c10535427207de2_sts-050s11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/004754980a4063dc1c10535427207de2_sts-050s11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/"
   },
   {
     "lectureIdx": 115,
@@ -1981,7 +2096,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course provides students with a critical introduction to: social and economic inequality in America; equitable development as a response framework for planners; social capital and community building as planning concepts; and the history, development, and current prospects of the fields of housing (with an emphasis on affordability and inclusion) and local economic development.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/5dfb514c72c8b8bb83f3d96efc5e3d6a_11-401f15.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/5dfb514c72c8b8bb83f3d96efc5e3d6a_11-401f15.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/"
   },
   {
     "lectureIdx": 116,
@@ -1999,7 +2115,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/15f29189c66d698a742c562fb1f723ef_5-60s08.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/15f29189c66d698a742c562fb1f723ef_5-60s08.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/"
   },
   {
     "lectureIdx": 117,
@@ -2010,7 +2127,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "Differential Equations are the language in which the laws of nature are expressed. Understanding properties of solutions of differential equations is fundamental to much of contemporary science and engineering. Ordinary differential equations (ODE\u2019s) deal with functions of one variable, which can often be thought of as time.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/e51bbed857b0ae65e7536f120c1473d9_18-03s10.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/e51bbed857b0ae65e7536f120c1473d9_18-03s10.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/"
   },
   {
     "lectureIdx": 118,
@@ -2028,7 +2146,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course covers elementary discrete mathematics for computer science and engineering. It emphasizes mathematical definitions and proofs as well as applicable methods. Topics include formal logic notation, proof methods; induction, well-ordering; sets, relations; elementary graph theory; integer congruences; asymptotic notation and growth of functions; permutations and combinations, counting principles; discrete probability. Further selected topics may also be covered, such as recursive definition and structural induction; state machines and invariants; recurrences; generating functions.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/42ba5c4fb2e9df43aa8b2bc0566b459f_6-042jf10.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/42ba5c4fb2e9df43aa8b2bc0566b459f_6-042jf10.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/"
   },
   {
     "lectureIdx": 119,
@@ -2048,7 +2167,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/6de8ebc1dd0be8960d71d7cc53c0c6fb_18-S190s20.gif"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/6de8ebc1dd0be8960d71d7cc53c0c6fb_18-S190s20.gif",
+    "lectureLink": "https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/"
   },
   {
     "lectureIdx": 120,
@@ -2059,7 +2179,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "Study of physical effects in the vicinity of a black hole as a basis for understanding general relativity, astrophysics, and elements of cosmology. Extension to current developments in theory and observation. Energy and momentum in flat spacetime; the metric; curvature of spacetime near rotating and nonrotating centers of attraction; trajectories and orbits of particles and light; elementary models of the Cosmos. Weekly meetings include an evening seminar and recitation. The last third of the semester is reserved for collaborative research projects on topics such as the Global Positioning System, solar system tests of relativity, descending into a black hole, gravitational lensing, gravitational waves, Gravity Probe B, and more advanced models of the Cosmos.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/fa646bdf7cc03bb7a8ed08c100bf2701_8-224s03.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/fa646bdf7cc03bb7a8ed08c100bf2701_8-224s03.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/"
   },
   {
     "lectureIdx": 121,
@@ -2074,7 +2195,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Non Credit"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/28205c50444b2ad0368682a733f1a36c_RES-TLL-005IAP18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/28205c50444b2ad0368682a733f1a36c_RES-TLL-005IAP18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/"
   },
   {
     "lectureIdx": 122,
@@ -2085,7 +2207,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/854b435085940a70d021829d02f0b802_res-18-007f11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/854b435085940a70d021829d02f0b802_res-18-007f11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/"
   },
   {
     "lectureIdx": 123,
@@ -2105,7 +2228,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/eab08f39ff3c71f01d8a97fd0d2de47a_15-031js12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/eab08f39ff3c71f01d8a97fd0d2de47a_15-031js12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/"
   },
   {
     "lectureIdx": 124,
@@ -2116,7 +2240,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/726dfc67e86050ec2c1f83c5c248961d_16-842f15.gif"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/726dfc67e86050ec2c1f83c5c248961d_16-842f15.gif",
+    "lectureLink": "https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/"
   },
   {
     "lectureIdx": 125,
@@ -2143,7 +2268,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/bb2b9f6f539febfaab4c819728f1a081_16-660iap12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/bb2b9f6f539febfaab4c819728f1a081_16-660iap12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/"
   },
   {
     "lectureIdx": 126,
@@ -2162,7 +2288,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "Linear algebra concepts are key for understanding and creating machine learning algorithms, especially as applied to deep learning and neural networks. This course reviews linear algebra with applications to probability and statistics and optimization\u00e2\u0080\u0093and above all a full explanation of deep learning.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/a24ae149b417e01db75f22ca566124e1_18-065s18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/a24ae149b417e01db75f22ca566124e1_18-065s18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/"
   },
   {
     "lectureIdx": 127,
@@ -2180,7 +2307,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "Interdisciplinary survey of people of African descent that draws on the overlapping approaches of history, literature, anthropology, legal studies, media studies, performance, linguistics, and creative writing. This course connects the experiences of African-Americans and of other American minorities, focusing on social, political, and cultural histories, and on linguistic patterns.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/5397de05867bd4a28fa3135ea46cdc7d_24-912s17.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/5397de05867bd4a28fa3135ea46cdc7d_24-912s17.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/"
   },
   {
     "lectureIdx": 128,
@@ -2197,7 +2325,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course reviews the processing and structure of cellular materials as they are created from polymers, metals, ceramics, glasses, and composites, develops models for the mechanical behavior of cellular solids, and shows how the unique properties of honeycombs and foams are exploited in applications such as lightweight structural panels, energy absorption devices and thermal insulation. The applications of cellular solids in medicine include increased fracture risk due to trabecular bone loss in patients with osteoporosis, the development of metal foam coatings for orthopaedic implants, and designing porous scaffolds for tissue engineering that mimic the extracellular matrix. Modelling of cellular materials applied to natural materials and biomimicking is explored. Students taking the graduate version of the class are required to complete additional assignments.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/e320e9d8b7f51ef01a9ffaf53a3e9246_3-054s15.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/e320e9d8b7f51ef01a9ffaf53a3e9246_3-054s15.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/"
   },
   {
     "lectureIdx": 129,
@@ -2214,7 +2343,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "16.885J offers a holistic view of the aircraft as a system, covering: basic systems engineering; cost and weight estimation; basic aircraft performance; safety and reliability; lifecycle topics; aircraft subsystems; risk analysis and management; and system realization. Small student teams retrospectively analyze an existing aircraft covering: key design drivers and decisions; aircraft attributes and subsystems; and operational experience. Oral and written versions of the case study are delivered. For the Fall 2005 term, the class focuses on a systems engineering analysis of the Space Shuttle. It offers study of both design and operations of the shuttle, with frequent lectures by outside experts. Students choose specific shuttle systems for detailed analysis and develop new subsystem designs using state of the art technology.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/16-885j-aircraft-systems-engineering-fall-2005/09cced96aa9ab8c4f9220ad837b8adeb_16-885jf05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/16-885j-aircraft-systems-engineering-fall-2005/09cced96aa9ab8c4f9220ad837b8adeb_16-885jf05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/16-885j-aircraft-systems-engineering-fall-2005/"
   },
   {
     "lectureIdx": 130,
@@ -2232,7 +2362,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "Interdisciplinary survey of people of African descent that draws on the overlapping approaches of history, literature, anthropology, legal studies, media studies, performance, linguistics, and creative writing. This course connects the experiences of African-Americans and of other American minorities, focusing on social, political, and cultural histories, and on linguistic patterns.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/5397de05867bd4a28fa3135ea46cdc7d_24-912s17.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/5397de05867bd4a28fa3135ea46cdc7d_24-912s17.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/"
   },
   {
     "lectureIdx": 131,
@@ -2249,7 +2380,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "16.885J offers a holistic view of the aircraft as a system, covering: basic systems engineering; cost and weight estimation; basic aircraft performance; safety and reliability; lifecycle topics; aircraft subsystems; risk analysis and management; and system realization. Small student teams retrospectively analyze an existing aircraft covering: key design drivers and decisions; aircraft attributes and subsystems; and operational experience. Oral and written versions of the case study are delivered. For the Fall 2005 term, the class focuses on a systems engineering analysis of the Space Shuttle. It offers study of both design and operations of the shuttle, with frequent lectures by outside experts. Students choose specific shuttle systems for detailed analysis and develop new subsystem designs using state of the art technology.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/16-885j-aircraft-systems-engineering-fall-2005/09cced96aa9ab8c4f9220ad837b8adeb_16-885jf05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/16-885j-aircraft-systems-engineering-fall-2005/09cced96aa9ab8c4f9220ad837b8adeb_16-885jf05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/16-885j-aircraft-systems-engineering-fall-2005/"
   },
   {
     "lectureIdx": 132,
@@ -2260,7 +2392,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "In this course, students study concepts and practice techniques of improvisation in solo and ensemble contexts. The course examines relationships between improvisation, composition, and performance based in traditional and experimental approaches. Hands-on music making will be complemented by discussion of the aesthetics of improvisation. Weekly lab sessions support work on musical technique. Guest artist / lecturers will engage students through mini-residencies in jazz with film, Indian music, electronic music, and blending improvisation with classic music; and an accompanying concert series will feature these artists in performance. Open by audition to instrumental or vocal performers.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-355-musical-improvisation-spring-2013/8239e3494b005d5f5c6551fb66cc1ec7_21M-355s13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-355-musical-improvisation-spring-2013/8239e3494b005d5f5c6551fb66cc1ec7_21M-355s13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21m-355-musical-improvisation-spring-2013/"
   },
   {
     "lectureIdx": 133,
@@ -2280,7 +2413,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate", "Undergraduate"],
     "description": "This course provides an introduction to cellular and population-level systems biology with an emphasis on synthetic biology, modeling of genetic networks, cell-cell interactions, and evolutionary dynamics. Cellular systems include genetic switches and oscillators, network motifs, genetic network evolution, and cellular decision-making. Population-level systems include models of pattern formation, cell-cell communication, and evolutionary systems biology.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-591j-systems-biology-fall-2014/"
   },
   {
     "lectureIdx": 134,
@@ -2291,7 +2425,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/5e3bbd1def95cb7fe71f0f47db3bc5fb_9-00scf11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/5e3bbd1def95cb7fe71f0f47db3bc5fb_9-00scf11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/"
   },
   {
     "lectureIdx": 135,
@@ -2315,7 +2450,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course is an introduction to computational biology emphasizing the fundamentals of nucleic acid and protein sequence and structural analysis; it also includes an introduction to the analysis of complex biological systems. Topics covered in the course include principles and methods used for sequence alignment, motif finding, structural modeling, structure prediction and network modeling, as well as currently emerging research areas.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/3fd2ad656393a3326bd168604c7ee4f9_7-91js14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/3fd2ad656393a3326bd168604c7ee4f9_7-91js14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/"
   },
   {
     "lectureIdx": 136,
@@ -2333,7 +2469,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This is the second term in a two-semester course on statistical mechanics. Basic principles are examined in this class, such as the laws of thermodynamics and the concepts of temperature, work, heat, and entropy. Topics from modern statistical mechanics are also explored, including the hydrodynamic limit and classical field theories.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/5672848001bbb171070bbbc08cbb6af6_8-334s14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/5672848001bbb171070bbbc08cbb6af6_8-334s14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/"
   },
   {
     "lectureIdx": 137,
@@ -2344,7 +2481,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/726dfc67e86050ec2c1f83c5c248961d_16-842f15.gif"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/726dfc67e86050ec2c1f83c5c248961d_16-842f15.gif",
+    "lectureLink": "https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/"
   },
   {
     "lectureIdx": 138,
@@ -2362,7 +2500,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This participatory seminar focuses on the knowledge and skills necessary for teaching science and engineering in higher education. It is designed for graduate students interested in an academic career, and anyone else interested in teaching. Students research and present a relevant topic of particular interest. The subject is appropriate for both novices and those with teaching experience.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/680c27ffaa1346598119362072b1d5df_5-95jf15.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/680c27ffaa1346598119362072b1d5df_5-95jf15.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/"
   },
   {
     "lectureIdx": 139,
@@ -2379,7 +2518,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course reviews the processing and structure of cellular materials as they are created from polymers, metals, ceramics, glasses, and composites, develops models for the mechanical behavior of cellular solids, and shows how the unique properties of honeycombs and foams are exploited in applications such as lightweight structural panels, energy absorption devices and thermal insulation. The applications of cellular solids in medicine include increased fracture risk due to trabecular bone loss in patients with osteoporosis, the development of metal foam coatings for orthopaedic implants, and designing porous scaffolds for tissue engineering that mimic the extracellular matrix. Modelling of cellular materials applied to natural materials and biomimicking is explored. Students taking the graduate version of the class are required to complete additional assignments.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/e320e9d8b7f51ef01a9ffaf53a3e9246_3-054s15.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/e320e9d8b7f51ef01a9ffaf53a3e9246_3-054s15.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/"
   },
   {
     "lectureIdx": 140,
@@ -2390,7 +2530,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/5e3bbd1def95cb7fe71f0f47db3bc5fb_9-00scf11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/5e3bbd1def95cb7fe71f0f47db3bc5fb_9-00scf11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/"
   },
   {
     "lectureIdx": 141,
@@ -2414,7 +2555,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course is an introduction to computational biology emphasizing the fundamentals of nucleic acid and protein sequence and structural analysis; it also includes an introduction to the analysis of complex biological systems. Topics covered in the course include principles and methods used for sequence alignment, motif finding, structural modeling, structure prediction and network modeling, as well as currently emerging research areas.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/3fd2ad656393a3326bd168604c7ee4f9_7-91js14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/3fd2ad656393a3326bd168604c7ee4f9_7-91js14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/"
   },
   {
     "lectureIdx": 142,
@@ -2434,7 +2576,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate", "Undergraduate"],
     "description": "This course provides an introduction to cellular and population-level systems biology with an emphasis on synthetic biology, modeling of genetic networks, cell-cell interactions, and evolutionary dynamics. Cellular systems include genetic switches and oscillators, network motifs, genetic network evolution, and cellular decision-making. Population-level systems include models of pattern formation, cell-cell communication, and evolutionary systems biology.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-591j-systems-biology-fall-2014/"
   },
   {
     "lectureIdx": 143,
@@ -2452,7 +2595,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This is the second term in a two-semester course on statistical mechanics. Basic principles are examined in this class, such as the laws of thermodynamics and the concepts of temperature, work, heat, and entropy. Topics from modern statistical mechanics are also explored, including the hydrodynamic limit and classical field theories.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/5672848001bbb171070bbbc08cbb6af6_8-334s14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/5672848001bbb171070bbbc08cbb6af6_8-334s14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/"
   },
   {
     "lectureIdx": 144,
@@ -2476,7 +2620,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/9e1606ae077c270fb7f1f10d3d23d366_esd-s43s14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/9e1606ae077c270fb7f1f10d3d23d366_esd-s43s14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/"
   },
   {
     "lectureIdx": 145,
@@ -2497,7 +2642,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This is a course for those who are interested in the challenge posed by massive and persistent world poverty, and are hopeful that economists might have something useful to say about this challenge. The questions we will take up include: Is extreme poverty a thing of the past? What is economic life like when living under a dollar per day? Why do some countries grow fast and others fall further behind? Does growth help the poor? Are famines unavoidable? How can we end child labor\u00e2\u0080\u0094or should we? How do we make schools work for poor citizens? How do we deal with the disease burden? Is micro finance invaluable or overrated? Without property rights, is life destined to be \u201cnasty, brutish and short\u201d? Has globalization been good to the poor? Should we leave economic development to the market? Should we leave economic development to non-governmental organizations (NGOs)? Does foreign aid help or hinder? Where is the best place to intervene?",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/14-73-the-challenge-of-world-poverty-spring-2011/7b1027ee0a8ca83157541417c999bcb4_14-73s11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/14-73-the-challenge-of-world-poverty-spring-2011/7b1027ee0a8ca83157541417c999bcb4_14-73s11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/14-73-the-challenge-of-world-poverty-spring-2011/"
   },
   {
     "lectureIdx": 146,
@@ -2513,7 +2659,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/0edc4641ba72c9a90e7028411a323d70_7-012f04.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/0edc4641ba72c9a90e7028411a323d70_7-012f04.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/"
   },
   {
     "lectureIdx": 147,
@@ -2538,7 +2685,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/698b16c21d0b79fca069d623e89dde8e_res-14-001s09.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/698b16c21d0b79fca069d623e89dde8e_res-14-001s09.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/"
   },
   {
     "lectureIdx": 148,
@@ -2559,7 +2707,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate", "Graduate"],
     "description": "This course provides an introduction to optical science with elementary engineering applications. Topics covered in geometrical optics include: ray-tracing, aberrations, lens design, apertures and stops, radiometry and photometry. Topics covered in wave optics include: basic electrodynamics, polarization, interference, wave-guiding, Fresnel and Fraunhofer diffraction, image formation, resolution, space-bandwidth product. Analytical and numerical tools used in optical design are emphasized. Graduate students are required to complete assignments with stronger analytical content, and an advanced design project.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/2-71-optics-spring-2009/3024e300799aab2575431ee950f0205e_2-71s09.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/2-71-optics-spring-2009/3024e300799aab2575431ee950f0205e_2-71s09.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/2-71-optics-spring-2009/"
   },
   {
     "lectureIdx": 149,
@@ -2570,7 +2719,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/ad862b68e2323331fd3ee944ed704f38_18-06scf11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/ad862b68e2323331fd3ee944ed704f38_18-06scf11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/"
   },
   {
     "lectureIdx": 150,
@@ -2581,7 +2731,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/ad862b68e2323331fd3ee944ed704f38_18-06scf11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/ad862b68e2323331fd3ee944ed704f38_18-06scf11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/"
   },
   {
     "lectureIdx": 151,
@@ -2598,7 +2749,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This is MIT\u2019s introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. Course concludes with a project proposal competition with feedback from staff and panel of industry sponsors. Prerequisites assume calculus (i.e. taking derivatives) and linear algebra (i.e. matrix multiplication), and we\u2019ll try to explain everything else along the way! Experience in Python is helpful but not necessary.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/5c27f47a367c35a4db16a70d574747bd_6-s191iap20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/5c27f47a367c35a4db16a70d574747bd_6-s191iap20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/"
   },
   {
     "lectureIdx": 152,
@@ -2618,7 +2770,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course, which\u00c2\u00a0examines ways of resolving conflicts over the allocation of water resources,\u00c2\u00a0is designed to raise student awareness of the state of freshwater resources globally and the need for more effective water governance. It builds on several case studies of transboundary water conflicts in different parts of the world while also helping students develop the negotiation and mediation skills they will need to resolve water disputes.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/11-382-water-diplomacy-spring-2021/f1ef819cc203e22b137e965313ad95ca_11-382s20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/11-382-water-diplomacy-spring-2021/f1ef819cc203e22b137e965313ad95ca_11-382s20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/11-382-water-diplomacy-spring-2021/"
   },
   {
     "lectureIdx": 153,
@@ -2634,7 +2787,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/98f7f76b373d20b5c3f849016d8ff5a1_18-02scf10.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/98f7f76b373d20b5c3f849016d8ff5a1_18-02scf10.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/"
   },
   {
     "lectureIdx": 154,
@@ -2651,7 +2805,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/mathematics-for-computer-science/6-042js15.jpeg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/mathematics-for-computer-science/6-042js15.jpeg",
+    "lectureLink": "https://ocw.mit.edu/courses/mathematics-for-computer-science/"
   },
   {
     "lectureIdx": 155,
@@ -2669,7 +2824,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/a31f0415c6d6d937cc662b4ed8cbbfe4_res-6-007s11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/a31f0415c6d6d937cc662b4ed8cbbfe4_res-6-007s11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/"
   },
   {
     "lectureIdx": 156,
@@ -2685,7 +2841,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "Caribbean Creole languages result from language contact via colonization and the slave trade. In this course we explore the history of Creole languages from cognitive, historical and comparative perspectives. We evaluate popular theories about \u201cCreole genesis\u201d and the role of language acquisition. Then we explore the non-linguistic aspects of Creole formation, using sources from literature, religion and music. We also look into issues of Caribbean identities as we examine Creole speakers' and others' beliefs and attitudes toward their cultures. We also make comparisons with relevant aspects of African-American culture in the U.S.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/d56f1f88cfa5094342e35e41193127c1_MIT24_912S17_chp.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/d56f1f88cfa5094342e35e41193127c1_MIT24_912S17_chp.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/"
   },
   {
     "lectureIdx": 157,
@@ -2706,7 +2863,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This class is intended to introduce students to understandings of the city generated from both social science literature and the field of urban design. The first part of the course examines literature on the history and theory of the city. Among other factors, it pays special attention to the larger territorial settings in which cities emerged and developed (ranging from the global to the national to the regional\u00c2\u00a0context) and how these affected the nature, character, and functioning of cities and the lives of their inhabitants. The remaining weeks focus more explicitly on the theory and practice of design visions for the city, the latter in both utopian and realized form. One of our aims will be to assess the conditions under which a variety of design visions were conceived, and to assess them in terms of the varying patterns of territorial \u201cnestedness\u201d (local, regional, national, imperial, and global) examined in the first part of the course. Another will be to encourage students to think about the future prospects of cities (in terms of territorial context or other political functions and social aims) and to offer design visions that might reflect these new dynamics.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/7a1ec5f2607179aa0367e4dfb8b8df9b_11-949s04.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/7a1ec5f2607179aa0367e4dfb8b8df9b_11-949s04.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/"
   },
   {
     "lectureIdx": 158,
@@ -2721,7 +2879,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/0240a5fbf0bdf718971641a9482528c5_11-965iap07.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/0240a5fbf0bdf718971641a9482528c5_11-965iap07.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/"
   },
   {
     "lectureIdx": 159,
@@ -2738,7 +2897,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course is a seminar on the philosophical analysis of film art, with an emphasis on the ways in which it creates meaning through techniques that define a formal structure. There is a particular focus on aesthetic problems about appearance and reality, literary and visual effects, communication and alienation through film technology.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/59e9f61fdf404dc9014e08a3d7c3128f_24-213f04.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/59e9f61fdf404dc9014e08a3d7c3128f_24-213f04.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/"
   },
   {
     "lectureIdx": 160,
@@ -2757,7 +2917,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course examines works of film in relation to thematic issues of philosophical importance that also occur in other arts, particularly literature and opera. Emphasis is put on film\u2019s ability to represent and express feeling as well as cognition. Both written and cinematic works by Sturges, Shaw, Cocteau, Hitchcock, Joyce, and Bergman, among others, are considered. There are no tests or quizzes, however students write two major papers on media/philosophical research topics of their choosing.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/24-209-philosophy-in-film-and-other-media-spring-2004/628bb5cd1f6f2a3f30ddcb0e561c63ff_24-209s04.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/24-209-philosophy-in-film-and-other-media-spring-2004/628bb5cd1f6f2a3f30ddcb0e561c63ff_24-209s04.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/24-209-philosophy-in-film-and-other-media-spring-2004/"
   },
   {
     "lectureIdx": 161,
@@ -2777,7 +2938,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This subject provides an introduction to modeling and simulation, covering continuum methods, atomistic and molecular simulation, and quantum mechanics. Hands-on training is provided in the fundamentals and applications of these methods to key engineering problems. The lectures provide exposure to areas of application based on the scientific exploitation of the power of computation. We use web based applets for simulations, thus extensive programming skills are not required.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/"
   },
   {
     "lectureIdx": 162,
@@ -2793,7 +2955,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course covers the derivation of symmetry theory; lattices, point groups, space groups, and their properties; use of symmetry in tensor representation of crystal properties, including anisotropy and representation surfaces; and applications to piezoelectricity and elasticity.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/7523b49bb7a42614053adbda9b982d37_3-60f05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/7523b49bb7a42614053adbda9b982d37_3-60f05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/"
   },
   {
     "lectureIdx": 163,
@@ -2812,7 +2975,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course provides an introduction to important philosophical questions about the mind, specifically those that are intimately connected with contemporary psychology and neuroscience. Are our concepts innate or are they acquired by experience? And what does it even mean to call a concept \u2018innate\u2019? Are \u2018mental images\u2019 pictures in the head? Is color in the mind or in the world? Is the mind nothing more than the brain? Can there be a science of consciousness? The course includes guest lectures by philosophers and cognitive scientists.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/66a4ca20c74d235f7bc38c889365dd1f_24-08js09.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/66a4ca20c74d235f7bc38c889365dd1f_24-08js09.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/"
   },
   {
     "lectureIdx": 164,
@@ -2834,7 +2998,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/44370cbedf2c22e2537551c76eafade8_3-014f06.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/44370cbedf2c22e2537551c76eafade8_3-014f06.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/"
   },
   {
     "lectureIdx": 165,
@@ -2851,7 +3016,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/b0d2d1dd8f89cb4bbb4870f857dcdeed_6-041SCf13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/b0d2d1dd8f89cb4bbb4870f857dcdeed_6-041SCf13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/"
   },
   {
     "lectureIdx": 166,
@@ -2872,7 +3038,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course introduces students to the principles of computation. Upon completion of 6.001, students should be able to explain and apply the basic methods from programming languages to analyze computational systems, and to generate computational solutions to abstract problems. Substantial weekly programming assignments are an integral part of the course. This course is worth 4 Engineering Design Points.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/ad40b7bc2fd8fcd95f535c77aeeafde3_6-001s05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/ad40b7bc2fd8fcd95f535c77aeeafde3_6-001s05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/"
   },
   {
     "lectureIdx": 167,
@@ -2888,7 +3055,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/e4fef5da33e933ff1a57d51c22d72850_6-035f05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/e4fef5da33e933ff1a57d51c22d72850_6-035f05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/"
   },
   {
     "lectureIdx": 168,
@@ -2905,7 +3073,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "How do we define Public Art? This course focuses on the production of projects for public places. Public Art is a concept that is in constant discussion and revision, as much as the evolution and transformation of public spaces and cities are. Monuments are repositories of memory and historical presences with the expectation of being permanent. Public interventions are created not to impose and be temporary, but as forms intended to activate discourse and discussion. Considering the concept of a museum as a public device and how they are searching for new ways of avoiding generic identities, we will deal with the concept of the personal imaginary museum. It should be considered as a point of departure to propose a personal individual construction based on the concept of defining a personal imaginary museum - concept, program, collection, events, architecture, public diffusion, etc.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/4-367-studio-seminar-in-public-art-spring-2006/1c1b81e86991ff601d78980904dc69f8_4-367s06.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/4-367-studio-seminar-in-public-art-spring-2006/1c1b81e86991ff601d78980904dc69f8_4-367s06.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/4-367-studio-seminar-in-public-art-spring-2006/"
   },
   {
     "lectureIdx": 169,
@@ -2922,7 +3091,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course covers time-dependent quantum mechanics and spectroscopy. Topics include perturbation theory, two-level systems, light-matter interactions, relaxation in quantum systems, correlation functions and linear response theory, and nonlinear spectroscopy.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/dc94284e6bed8e2e47b66fa579b20af2_5-74s04.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/dc94284e6bed8e2e47b66fa579b20af2_5-74s04.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/"
   },
   {
     "lectureIdx": 170,
@@ -2939,7 +3109,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/29adf97891c3856cb3652b9848e93c55_6-189iap07.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/29adf97891c3856cb3652b9848e93c55_6-189iap07.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/"
   },
   {
     "lectureIdx": 171,
@@ -2958,7 +3129,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/7-05-general-biochemistry-spring-2020/ee542d846a1a8a0f5367efea0e7522e0_7-05s20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/7-05-general-biochemistry-spring-2020/ee542d846a1a8a0f5367efea0e7522e0_7-05s20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/7-05-general-biochemistry-spring-2020/"
   },
   {
     "lectureIdx": 172,
@@ -2976,7 +3148,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course is about the mathematics that is most widely used in the mechanical engineering core subjects: An introduction to linear algebra and ordinary differential equations (ODEs), including general numerical approaches to solving systems of equations.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/f3ef06c70a775a74be6b2a5a6788e1a9_2-080jf14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/f3ef06c70a775a74be6b2a5a6788e1a9_2-080jf14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/"
   },
   {
     "lectureIdx": 173,
@@ -2992,7 +3165,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-821-project-laboratory-in-mathematics-spring-2013/4d23091d2bc56fe46d100d53ae797a5f_18-821s13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-821-project-laboratory-in-mathematics-spring-2013/4d23091d2bc56fe46d100d53ae797a5f_18-821s13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-821-project-laboratory-in-mathematics-spring-2013/"
   },
   {
     "lectureIdx": 174,
@@ -3017,7 +3191,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/c7dc493ba0e742986ecfb617699db103_16-810iap05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/c7dc493ba0e742986ecfb617699db103_16-810iap05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/"
   },
   {
     "lectureIdx": 175,
@@ -3034,7 +3209,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/a10d2efb59f6dd20dfeba20bc0611450_8-02s19.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/a10d2efb59f6dd20dfeba20bc0611450_8-02s19.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/"
   },
   {
     "lectureIdx": 176,
@@ -3051,7 +3227,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course is an introduction to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-868j-the-society-of-mind-fall-2011/82a71e656998473fb474d9bd38264a35_6-868jf11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-868j-the-society-of-mind-fall-2011/82a71e656998473fb474d9bd38264a35_6-868jf11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-868j-the-society-of-mind-fall-2011/"
   },
   {
     "lectureIdx": 177,
@@ -3073,7 +3250,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "The subtitle of this course for the spring 2003 term is \u201cAmerican Television: A Cultural History.\u201d The class takes a cultural approach to television\u2019s evolution as a technology and system of representation, considering television as a system of storytelling and myth-making, and as a cultural practice, studied from anthropological, literary, and cinematic perspectives. The course focuses on prime-time commercial broadcasting, the medium\u2019s technological and economic history, and theoretical perspectives. There is much required viewing as well as readings in media theory and cultural interpretation.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21l-432-understanding-television-spring-2003/8be74a16511d8b3c80eb1895747dae17_21l-432s03.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21l-432-understanding-television-spring-2003/8be74a16511d8b3c80eb1895747dae17_21l-432s03.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21l-432-understanding-television-spring-2003/"
   },
   {
     "lectureIdx": 178,
@@ -3089,7 +3267,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/15f66b6f0289f4b4f3e9577b7c264182_res-6-012s18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/15f66b6f0289f4b4f3e9577b7c264182_res-6-012s18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/"
   },
   {
     "lectureIdx": 179,
@@ -3108,7 +3287,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/dca2d57b2aa2ae39adce6305c70f0ce1_res-18-009f15.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/dca2d57b2aa2ae39adce6305c70f0ce1_res-18-009f15.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/"
   },
   {
     "lectureIdx": 180,
@@ -3130,7 +3310,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/44370cbedf2c22e2537551c76eafade8_3-014f06.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/44370cbedf2c22e2537551c76eafade8_3-014f06.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/"
   },
   {
     "lectureIdx": 181,
@@ -3150,7 +3331,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This subject provides an introduction to modeling and simulation, covering continuum methods, atomistic and molecular simulation, and quantum mechanics. Hands-on training is provided in the fundamentals and applications of these methods to key engineering problems. The lectures provide exposure to areas of application based on the scientific exploitation of the power of computation. We use web based applets for simulations, thus extensive programming skills are not required.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/"
   },
   {
     "lectureIdx": 182,
@@ -3166,7 +3348,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course covers the derivation of symmetry theory; lattices, point groups, space groups, and their properties; use of symmetry in tensor representation of crystal properties, including anisotropy and representation surfaces; and applications to piezoelectricity and elasticity.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/7523b49bb7a42614053adbda9b982d37_3-60f05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/7523b49bb7a42614053adbda9b982d37_3-60f05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/"
   },
   {
     "lectureIdx": 183,
@@ -3185,7 +3368,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course provides an introduction to important philosophical questions about the mind, specifically those that are intimately connected with contemporary psychology and neuroscience. Are our concepts innate or are they acquired by experience? And what does it even mean to call a concept \u2018innate\u2019? Are \u2018mental images\u2019 pictures in the head? Is color in the mind or in the world? Is the mind nothing more than the brain? Can there be a science of consciousness? The course includes guest lectures by philosophers and cognitive scientists.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/66a4ca20c74d235f7bc38c889365dd1f_24-08js09.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/66a4ca20c74d235f7bc38c889365dd1f_24-08js09.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/"
   },
   {
     "lectureIdx": 184,
@@ -3204,7 +3388,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/7-05-general-biochemistry-spring-2020/ee542d846a1a8a0f5367efea0e7522e0_7-05s20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/7-05-general-biochemistry-spring-2020/ee542d846a1a8a0f5367efea0e7522e0_7-05s20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/7-05-general-biochemistry-spring-2020/"
   },
   {
     "lectureIdx": 185,
@@ -3221,7 +3406,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/e7c8a3779cf478cfc8365571e074ebc7_6-832s09.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/e7c8a3779cf478cfc8365571e074ebc7_6-832s09.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/"
   },
   {
     "lectureIdx": 186,
@@ -3238,7 +3424,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/a10d2efb59f6dd20dfeba20bc0611450_8-02s19.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/a10d2efb59f6dd20dfeba20bc0611450_8-02s19.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/"
   },
   {
     "lectureIdx": 187,
@@ -3249,7 +3436,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/e9364f2c78325737c5785e372c8330cc_15-356s12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/e9364f2c78325737c5785e372c8330cc_15-356s12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/"
   },
   {
     "lectureIdx": 188,
@@ -3271,7 +3459,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This course discusses the evolution and role of urban public transportation modes, systems, and services, focusing on bus and rail. It covers various topics, including current practice and new methods for data collection and analysis, performance monitoring, route design, frequency determination, vehicle and crew scheduling, effect of pricing policy and service quality on ridership.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/f05dd8f8311ee9d6d192ab981cbbdf3e_1-258Js17.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/f05dd8f8311ee9d6d192ab981cbbdf3e_1-258Js17.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/"
   },
   {
     "lectureIdx": 189,
@@ -3294,7 +3483,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/f5c3635c6020ba5909eef3980c0553fd_21m-542iap10.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/f5c3635c6020ba5909eef3980c0553fd_21m-542iap10.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/"
   },
   {
     "lectureIdx": 190,
@@ -3318,7 +3508,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-tll-004-stem-concept-videos-fall-2013/53b4d019a6dc6ccc1fb86c6a12d9c5f6_res-tl-004f13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-tll-004-stem-concept-videos-fall-2013/53b4d019a6dc6ccc1fb86c6a12d9c5f6_res-tl-004f13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-tll-004-stem-concept-videos-fall-2013/"
   },
   {
     "lectureIdx": 191,
@@ -3352,7 +3543,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "The basic objective of Unified Engineering is to give a solid understanding of the fundamental disciplines of aerospace engineering, as well as their interrelationships and applications. These disciplines are Materials and Structures (M); Computers and Programming (C); Fluid Mechanics (F); Thermodynamics (T); Propulsion (P); and Signals and Systems (S). In choosing to teach these subjects in a unified manner, the instructors seek to explain the common intellectual threads in these disciplines, as well as their combined application to solve engineering Systems Problems (SP). Throughout the year, the instructors emphasize the connections among the disciplines.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f56bbb35d0e456dc8b70911bec7cd0d_16-01f05.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f56bbb35d0e456dc8b70911bec7cd0d_16-01f05.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/"
   },
   {
     "lectureIdx": 192,
@@ -3375,7 +3567,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/f5c3635c6020ba5909eef3980c0553fd_21m-542iap10.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/f5c3635c6020ba5909eef3980c0553fd_21m-542iap10.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/"
   },
   {
     "lectureIdx": 193,
@@ -3386,7 +3579,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-310-laboratory-chemistry-fall-2019/52c765b12e4e9e210ea3daab31337f61_5-310f19.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-310-laboratory-chemistry-fall-2019/52c765b12e4e9e210ea3daab31337f61_5-310f19.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/5-310-laboratory-chemistry-fall-2019/"
   },
   {
     "lectureIdx": 194,
@@ -3397,7 +3591,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/e9364f2c78325737c5785e372c8330cc_15-356s12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/e9364f2c78325737c5785e372c8330cc_15-356s12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/"
   },
   {
     "lectureIdx": 195,
@@ -3414,7 +3609,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "Students explore augmented reality audio through the design and evaluation of prototypes. Participants will probe design space and illuminate creative possibilities. This includes productive, playful, and social applications, as well as the intersection between games and music. The course builds understanding of the limitations and strengths of iterative design and rapid prototyping as research methods, familiarizes students with the theoretical foundations of design exploration, and practices working with physical and digital materials.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/012b91c8fbb3d01295db57ff18b1c829_cms-s63f19.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/012b91c8fbb3d01295db57ff18b1c829_cms-s63f19.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/"
   },
   {
     "lectureIdx": 196,
@@ -3442,7 +3638,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This is an introductory course on computational thinking. We use the Julia programming language to approach real-world problems in varied areas, applying data analysis and computational and mathematical modeling. In this class you will learn computer science, software, algorithms, applications, and mathematics as an integrated whole. Topics include image analysis, particle dynamics and ray tracing, epidemic propagation, and climate modeling.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/fcf0a572dbb9cb7b4d22c768c8e2fc84_18-S191f20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/fcf0a572dbb9cb7b4d22c768c8e2fc84_18-S191f20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/"
   },
   {
     "lectureIdx": 197,
@@ -3460,7 +3657,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course is an introduction to the dynamics and vibrations of lumped-parameter models of mechanical systems. Topics covered include kinematics, force-momentum formulation for systems of particles and rigid bodies in planar motion, work-energy concepts, virtual displacements and virtual work. Students will also become familiar with the following topics: Lagrange\u2019s equations for systems of particles and rigid bodies in planar motion, and linearization of equations of motion. After this course, students will be able to evaluate free and forced vibration of linear multi-degree of freedom models of mechanical systems and matrix eigenvalue problems.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/e541b119638faca8fbbefb815ef3cc30_2-003scf11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/e541b119638faca8fbbefb815ef3cc30_2-003scf11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/"
   },
   {
     "lectureIdx": 198,
@@ -3476,7 +3674,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This one-day workshop provides a brief overview of system dynamics and a hands-on simulation experience. It also serves as a preview of the more in-depth coverage of the subject available in other courses offered at MIT Sloan.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/053b70bcb88e0ffc32bce16edfba06a9_MITRES15-004IAP20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/053b70bcb88e0ffc32bce16edfba06a9_MITRES15-004IAP20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/"
   },
   {
     "lectureIdx": 199,
@@ -3498,7 +3697,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/22be3daa0aa336953e173ab8d8e4a6a5_res-6-001s08.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/22be3daa0aa336953e173ab8d8e4a6a5_res-6-001s08.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/"
   },
   {
     "lectureIdx": 200,
@@ -3509,7 +3709,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/08b6e1982462f0318068a10fe0550826_5-111f08.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/08b6e1982462f0318068a10fe0550826_5-111f08.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/"
   },
   {
     "lectureIdx": 201,
@@ -3526,7 +3727,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course is a computationally focused introduction to elliptic curves, with applications to number theory and cryptography. While this is an introductory course, we will (gently) work our way up to some fairly advanced material, including an overview of the proof of Fermat\u2019s last theorem.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-783-elliptic-curves-spring-2021/743cf5e3ad82e7f2cbd2bd75b454dc5d_18-783s21.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-783-elliptic-curves-spring-2021/743cf5e3ad82e7f2cbd2bd75b454dc5d_18-783s21.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-783-elliptic-curves-spring-2021/"
   },
   {
     "lectureIdx": 202,
@@ -3544,7 +3746,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate", "Graduate"],
     "description": "This course emphasizes computability and computational complexity theory. Topics include regular and context-free languages, decidable and undecidable problems, reducibility, recursive function theory, time and space measures on computation, completeness, hierarchy theorems, inherently complex problems, oracles, probabilistic computation, and interactive proof systems.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/25eb14e154bff97af5173a45a625ab51_18-404jf20_v2.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/25eb14e154bff97af5173a45a625ab51_18-404jf20_v2.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/"
   },
   {
     "lectureIdx": 203,
@@ -3555,7 +3758,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2018/1e55ea22b36513349f52225aa9ba87e9_14-01f18.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2018/1e55ea22b36513349f52225aa9ba87e9_14-01f18.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2018/"
   },
   {
     "lectureIdx": 204,
@@ -3577,7 +3781,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/2-003j-dynamics-and-control-i-fall-2007/8616c4522a27a8fb7a2c4d1b56bcf3fe_2-003jf07.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/2-003j-dynamics-and-control-i-fall-2007/8616c4522a27a8fb7a2c4d1b56bcf3fe_2-003jf07.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/2-003j-dynamics-and-control-i-fall-2007/"
   },
   {
     "lectureIdx": 205,
@@ -3588,7 +3793,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "Category theory is a relatively new branch of mathematics that has transformed much of pure math research. The technical advance is that category theory provides a framework in which to organize formal systems and by which to translate between them, allowing one to transfer knowledge from one field to another. But this same organizational framework also has many compelling examples outside of pure math. In this course, we will give seven sketches on real-world applications of category theory.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/0d866f14140a2414ef83284d4b5fee6e_18-s097iap19.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/0d866f14140a2414ef83284d4b5fee6e_18-s097iap19.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/"
   },
   {
     "lectureIdx": 206,
@@ -3618,7 +3824,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/f54fa4be872261b4ccfca37e1a17100e_20-219iap15.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/f54fa4be872261b4ccfca37e1a17100e_20-219iap15.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/"
   },
   {
     "lectureIdx": 207,
@@ -3629,7 +3836,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course concentrates on close analysis and criticism of a wide range of films, from the early silent period, classic Hollywood genres including musicals, thrillers and westerns, and European and Japanese art cinema. It explores the work of Griffith, Chaplin, Keaton, Capra, Hawks, Hitchcock, Altman, Renoir, DeSica, and Kurosawa. Through comparative reading of films from different eras and countries, students develop the skills to turn their in-depth analyses into interpretations and explore theoretical issues related to spectatorship.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/21l-011-the-film-experience-fall-2013/a6377eab1423431f1f7b1129239d4be7_21l-011f13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/21l-011-the-film-experience-fall-2013/a6377eab1423431f1f7b1129239d4be7_21l-011f13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/21l-011-the-film-experience-fall-2013/"
   },
   {
     "lectureIdx": 208,
@@ -3646,7 +3854,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This is a class about applying autonomy to real-world systems. The overarching theme uniting the many different topics in this course will center around programming a cognitive robotic. This class takes the approach of introducing new reasoning techniques and ideas incrementally. We start with the current paradigm of programming you\u2019re likely familiar with, and evolve it over the semester\u00e2\u0080\u0094continually adding in new features and reasoning capabilities\u00e2\u0080\u0094ending with a robust, intelligent system. These techniques and topics will include algorithms for allowing a robot to: Monitor itself for potential problems (both observable and hidden), scheduling tasks in time, coming up with novel plans to achieve desired goals over time, dealing with the continuous world, collaborating with other (autonomous) agents, dealing with risk, and more.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/54d1a777a7666799ad583f802b147c0d_16-412js16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/54d1a777a7666799ad583f802b147c0d_16-412js16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/"
   },
   {
     "lectureIdx": 209,
@@ -3657,7 +3866,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This is a three-day workshop that took place during the MIT Independent Activities Period (IAP) in January, 2019. This workshop aims to provide information for students to prepare for the FAA Private Pilot Knowledge Test. Topics include airplane aerodynamics, aircraft systems, navigation, meteorology, aircraft ownership and maintenance, aircraft performance, multi-engine and jets.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/16-687-private-pilot-ground-school-january-iap-2019/b5571466c776ed450f6a9d13f807c04f_16-687iap19.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/16-687-private-pilot-ground-school-january-iap-2019/b5571466c776ed450f6a9d13f807c04f_16-687iap19.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/16-687-private-pilot-ground-school-january-iap-2019/"
   },
   {
     "lectureIdx": 210,
@@ -3673,7 +3883,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/d0f93b2cd45af686cfe4b6c19e96d0b4_15-s50iap15.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/d0f93b2cd45af686cfe4b6c19e96d0b4_15-s50iap15.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/"
   },
   {
     "lectureIdx": 211,
@@ -3699,7 +3910,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate", "Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/22-033-nuclear-systems-design-project-fall-2011/2dd223d254f7cf31e2c811afdb87eeb8_22-033f11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/22-033-nuclear-systems-design-project-fall-2011/2dd223d254f7cf31e2c811afdb87eeb8_22-033f11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/22-033-nuclear-systems-design-project-fall-2011/"
   },
   {
     "lectureIdx": 212,
@@ -3716,7 +3928,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course provides an introduction to nuclear science and its engineering applications. It describes basic nuclear models, radioactivity, nuclear reactions, and kinematics; covers the interaction of ionizing radiation with matter, with an emphasis on radiation detection, radiation shielding, and radiation effects on human health; and presents energy systems based on fission and fusion nuclear reactions, as well as industrial and medical applications of nuclear science.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/64a937e4f745ca4557288943eac0cec7_22-01f16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/64a937e4f745ca4557288943eac0cec7_22-01f16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/"
   },
   {
     "lectureIdx": 213,
@@ -3735,7 +3948,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course examines the neural bases of sensory perception. The focus is on physiological and anatomical studies of the mammalian nervous system as well as behavioral studies of animals and humans. Topics include visual pattern, color and depth perception, auditory responses and sound localization, and somatosensory perception.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/9-04-sensory-systems-fall-2013/f620eb0ee65a809a76c00f2e4f51acdf_9-04f13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/9-04-sensory-systems-fall-2013/f620eb0ee65a809a76c00f2e4f51acdf_9-04f13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/9-04-sensory-systems-fall-2013/"
   },
   {
     "lectureIdx": 214,
@@ -3746,7 +3960,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This is the first of a two-semester subject sequence that provides the foundations for contemporary research in selected areas of atomic and optical physics. Topics covered include the interaction of radiation with atoms: resonance; absorption, stimulated and spontaneous emission; methods of resonance, dressed atom formalism, masers and lasers, cavity quantum electrodynamics; structure of simple atoms, behavior in very strong fields; fundamental tests: time reversal, parity violations, Bell\u2019s inequalities; and experimental methods.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-421-atomic-and-optical-physics-i-spring-2014/c039057064a6daa0fea6d33bb4e420eb_8-421s14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-421-atomic-and-optical-physics-i-spring-2014/c039057064a6daa0fea6d33bb4e420eb_8-421s14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-421-atomic-and-optical-physics-i-spring-2014/"
   },
   {
     "lectureIdx": 215,
@@ -3761,7 +3976,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-07sc-biological-chemistry-i-fall-2013/753a9eda4508a90642831dcdc23f4f10_5-07scf13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-07sc-biological-chemistry-i-fall-2013/753a9eda4508a90642831dcdc23f4f10_5-07scf13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/5-07sc-biological-chemistry-i-fall-2013/"
   },
   {
     "lectureIdx": 216,
@@ -3778,7 +3994,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/afc26c2e5de67efafa76680f079d1254_5-111scf14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/afc26c2e5de67efafa76680f079d1254_5-111scf14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/"
   },
   {
     "lectureIdx": 217,
@@ -3795,7 +4012,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course introduces students to the basic knowledge representation, problem solving, and learning methods of artificial intelligence. Upon completion of 6.034, students should be able to develop intelligent systems by assembling solutions to concrete computational problems; understand the role of knowledge representation, problem solving, and learning in intelligent-system engineering; and appreciate the role of problem solving, vision, and language in understanding human intelligence from a computational perspective.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/222f721ca21fb802fd00fa09e17b7f80_6-034f10.JPG"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/222f721ca21fb802fd00fa09e17b7f80_6-034f10.JPG",
+    "lectureLink": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/"
   },
   {
     "lectureIdx": 218,
@@ -3820,7 +4038,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/d9b85b4bdedd72beb1e5cac01ea694d1_res-9-003sum15.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/d9b85b4bdedd72beb1e5cac01ea694d1_res-9-003sum15.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/"
   },
   {
     "lectureIdx": 219,
@@ -3837,7 +4056,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": "This course introduces the Dynamic Distributed Dimensional Data Model (D4M), a breakthrough in computer programming that combines graph theory, linear algebra, and databases to address problems associated with Big Data. Search, social media, ad placement, mapping, tracking, spam filtering, fraud detection, wireless communication, drug discovery, and bioinformatics all attempt to find items of interest in vast quantities of data. This course teaches a signal processing approach to these problems by combining linear algebraic graph algorithms, group theory, and database design. This approach has been implemented in software. The class will begin with a number of practical problems, introduce the appropriate theory, and then apply the theory to these problems. Students will apply these ideas in the final project of their choosing. The course will contain a number of smaller assignments which will prepare the students with appropriate software infrastructure for completing their final projects.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/7311378c6e1194415d5bb278083d4987_res-ll-005iap20.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/7311378c6e1194415d5bb278083d4987_res-ll-005iap20.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/"
   },
   {
     "lectureIdx": 220,
@@ -3862,7 +4082,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Non Credit"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-2-006-girls-who-build-cameras-summer-2016/79dbf8496c35fd78c2c1336060c66402_res-2-006sum16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-2-006-girls-who-build-cameras-summer-2016/79dbf8496c35fd78c2c1336060c66402_res-2-006sum16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-2-006-girls-who-build-cameras-summer-2016/"
   },
   {
     "lectureIdx": 221,
@@ -3885,7 +4106,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/ab45021de5b90f35882afcbcfebaf303_RES-10001s16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/ab45021de5b90f35882afcbcfebaf303_RES-10001s16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/"
   },
   {
     "lectureIdx": 222,
@@ -3908,7 +4130,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2013/7ab23aa4f8fa16499c8ff2e2f74a95a5_7-013s13.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2013/7ab23aa4f8fa16499c8ff2e2f74a95a5_7-013s13.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2013/"
   },
   {
     "lectureIdx": 223,
@@ -3925,7 +4148,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": "This string theory course focuses on holographic duality (also known as gauge / gravity duality or AdS / CFT) as a novel method of approaching and connecting a range of diverse subjects, including quantum gravity / black holes, QCD at extreme conditions, exotic condensed matter systems, and quantum information.",
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-821-string-theory-and-holographic-duality-fall-2014/529bf14b1b4a356d33946b186a3181a5_8-821f14.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-821-string-theory-and-holographic-duality-fall-2014/529bf14b1b4a356d33946b186a3181a5_8-821f14.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-821-string-theory-and-holographic-duality-fall-2014/"
   },
   {
     "lectureIdx": 224,
@@ -3941,7 +4165,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/41623c6eccbf82e137bebd7e69b8a4d8_18-03scf11.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/41623c6eccbf82e137bebd7e69b8a4d8_18-03scf11.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/"
   },
   {
     "lectureIdx": 225,
@@ -3958,7 +4183,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/2-00b-toy-product-design-spring-2021/0b041769992e2841d2d316087eedb2cb_2-00bs21.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/2-00b-toy-product-design-spring-2021/0b041769992e2841d2d316087eedb2cb_2-00bs21.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/2-00b-toy-product-design-spring-2021/"
   },
   {
     "lectureIdx": 226,
@@ -3977,7 +4203,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Graduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/c7b0a28620632f7a7f1e3104d03ae80f_11-941f03.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/c7b0a28620632f7a7f1e3104d03ae80f_11-941f03.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/"
   },
   {
     "lectureIdx": 227,
@@ -4000,7 +4227,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017/81234111740c864e9a34866bc6279b34_RES-11-002f17.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017/81234111740c864e9a34866bc6279b34_RES-11-002f17.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017/"
   },
   {
     "lectureIdx": 228,
@@ -4011,7 +4239,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/21baaf5086dee18b81aba855e0cc34cd_res-8-005f12.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/21baaf5086dee18b81aba855e0cc34cd_res-8-005f12.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/"
   },
   {
     "lectureIdx": 229,
@@ -4028,7 +4257,8 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/424dd4989c1235387a32fbb5a17b80c1_8-01scf16.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/424dd4989c1235387a32fbb5a17b80c1_8-01scf16.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/"
   },
   {
     "lectureIdx": 230,
@@ -4045,6 +4275,7 @@
     "institute": "Massachusetts Institute of Technology",
     "levels": ["Undergraduate"],
     "description": null,
-    "thumbnailUrl": "https://ocw.mit.edu/courses/res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019/5aa51be2c9a31a5bd87adaa05a6eca61_RES.8-007f19.jpg"
+    "thumbnailUrl": "https://ocw.mit.edu/courses/res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019/5aa51be2c9a31a5bd87adaa05a6eca61_RES.8-007f19.jpg",
+    "lectureLink": "https://ocw.mit.edu/courses/res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019/"
   }
 ]
