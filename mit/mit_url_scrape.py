@@ -1,9 +1,9 @@
 import time
+import json
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
-import pickle
 
 def get_urls():
   chromedriver = "/opt/homebrew/bin/chromedriver"
@@ -31,7 +31,7 @@ def get_urls():
       # print(f"scroll_height: {scroll_height}")
       # print(f"screen_height: {screen_height}")
       # print(f"screen_height * i: {screen_height * i}")
-      if (screen_height) * i > scroll_height + 1:
+      if (screen_height) * i > scroll_height + screen_height:
           break 
 
   ##### Extract Reddit URLs #####
@@ -47,7 +47,6 @@ def get_urls():
       urls.append(url)
 
   print("length of urls: ", len(urls))
-  outp = open('mit_urls', 'wb')
-  pickle.dump(urls, outp)
-  outp.close()
+  with open("./mit/mit_urls.json", 'w') as d:
+    json.dump(urls, d)
   return

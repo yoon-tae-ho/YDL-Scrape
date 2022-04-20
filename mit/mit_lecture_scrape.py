@@ -1,4 +1,3 @@
-import pickle
 import json
 import requests
 from urllib.parse import urljoin
@@ -10,9 +9,9 @@ def extract_string(soup_element):
   return soup_element.string.strip()
 
 def get_lecture_info():
-  inp = open('./mit/mit_urls', 'rb')
-  urls = pickle.load(inp)
-  inp.close()
+  urls = []
+  with open('./mit/mit_urls.json') as json_file:
+    urls = json.load(json_file)
   
   lectures = []
   

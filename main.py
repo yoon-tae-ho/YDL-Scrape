@@ -1,14 +1,13 @@
+import enum
 import time
-import pickle
-from mit.mit_lecture_scrape import get_lecture_info
-from mit.mit_video_scrape import get_video_info
-from mit.check_nav_types import check_nav_types
+import json
+from oxford.oxford_url_scrape import get_urls
+from oxford.oxford_lecture_video_scrape import get_lecture_video_info
 
 start_time = time.time()
 
-get_lecture_info()
-# get_video_info()
-# check_nav_types()
+# get_urls()
+get_lecture_video_info()
 
 end_time = time.time()
 total_time = end_time - start_time

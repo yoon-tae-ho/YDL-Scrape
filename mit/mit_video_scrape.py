@@ -1,4 +1,3 @@
-import pickle
 import json
 import requests
 from urllib.parse import urljoin
@@ -47,7 +46,8 @@ def get_video_dict(video_dict, idx):
     "title": title,
     "embededCode": embeded_code,
     "description": description,
-    "player": "YouTube"
+    "player": "YouTube",
+    "type": "Video"
   })
   return video_dict
 
@@ -70,13 +70,12 @@ def get_video_pages(a_tag):
   return result
 
 def get_video_info():
-  inp = open('./mit/mit_urls', 'rb')
-  urls = pickle.load(inp)
-  inp.close()
+  urls = []
+  with open('./mit/mit_urls.json') as json_file:
+    urls = json.load(json_file)
   
   videos = []
   
-
   for idx, url in enumerate(urls):
     doc = requests.get(url)
     soup = BeautifulSoup(doc.text, "html.parser")

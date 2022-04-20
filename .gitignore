@@ -1,0 +1,9 @@
+mit/mit_urls.json
+mit/mit_lectures.json
+mit/mit_videos.json
+
+oxford/oxford_urls.json
+oxford/oxford_lectures.json
+oxford/oxford_videos.json
+
+# git rm --cached /path/to/file
