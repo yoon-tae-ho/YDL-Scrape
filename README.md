@@ -1,9 +1,12 @@
 # Scrape The Lectures Info
 
-[] Massachusetts Institute of Technology
+[x] Massachusetts Institute of Technology
 
 [] Oxford University
 
 [] Stanford University
 
-[] Yale University
+[x] Yale University
+
+<!-- http://podcasts.ox.ac.uk/series/bodleian-libraries-bodcasts -->
+<!-- 위 주소에서 페이지가 2개인 문제가 발생. -->

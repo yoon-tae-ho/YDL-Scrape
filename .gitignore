@@ -6,4 +6,8 @@ oxford/oxford_urls.json
 oxford/oxford_lectures.json
 oxford/oxford_videos.json
 
+yale/yale_urls.json
+yale/yale_lectures.json
+yale/yale_videos.json
+
 # git rm --cached /path/to/file
