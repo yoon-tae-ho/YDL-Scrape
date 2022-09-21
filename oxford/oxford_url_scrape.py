@@ -17,43 +17,59 @@ def search(list, str):
         return True
   return False
 
-
 def get_urls():
   headers = requests.utils.default_headers()
   headers.update(
     {
-      'User-Agent': 'My User Agent 1.0',
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36',
     }
   )
   
-  doc = requests.get("http://podcasts.ox.ac.uk/open/all?sort_by=created&sort_order=DESC&items_per_page=All", headers=headers)
-  soup = BeautifulSoup(doc.text, "html.parser")
-  
-  rows = soup.find_all("li", class_="views-row")
-  
   urls = []
   
-  for row in rows:
-    a_tag = row.find("div", class_="views-field-name").find("a")
-    urls.append(extract_link(a_tag))
+  for page in range(4):
+    doc = requests.get(f"https://podcasts.ox.ac.uk/series?combine=&page={page}", headers=headers)
+    soup = BeautifulSoup(doc.text, "html.parser")
     
-  urls_having_video = []
-  
-  for idx, url in enumerate(urls):
-    doc_2 = requests.get(url, headers=headers)
-    soup_2 = BeautifulSoup(doc_2.text, "html.parser")
-    
-    subscribe_row = soup_2.find(id="block-views-taxonomy_term_files-subscribe")
-    a_tags = subscribe_row.find_all("a")
-    strings = list(map(extract_string, a_tags))
-    
-    if search(strings, "Apple Podcasts Video") and search(strings, "Video RSS Feed"):
-      urls_having_video.append(url)
+    rows = soup.find("div", class_="view-series-listing").find("div", class_="view-content").find_all("div", class_="views-row")
+
+    for i, row in enumerate(rows):
+      a_tag = row.find("div", class_="views-field-rendered-entity").find("a")
+      lecture_url = extract_link(a_tag)
       
-    print(f"{idx} / {len(urls)}")
-  
-  print(f"urls_having_video: {len(urls_having_video)}")
-  
+      # video를 가지고 있는 강의인지 판별
+      lecture_doc = requests.get(lecture_url, headers=headers)
+      lecture_soup = BeautifulSoup(lecture_doc.text, "html.parser")
+    
+      # is contain "Apple Podcast Video"?
+      apple_podcast_video = lecture_soup.find("div", class_="subscriptions").find("a", class_="apple-podcast-video")
+      if apple_podcast_video.get_text() == "Apple Podcast Video":
+        urls.append(extract_link(a_tag))
+      
+      print(f"{page + 1}/4 {i + 1}/{len(rows)}")
+      
   with open("./oxford/oxford_urls.json", 'w') as d:
-    json.dump(urls_having_video, d)
+    json.dump(urls, d)
   return
+  
+  # for row in rows:
+  #   a_tag = row.find("div", class_="views-field-name").find("a")
+  #   urls.append(extract_link(a_tag))
+    
+  # urls_having_video = []
+  
+  # for idx, url in enumerate(urls):
+  #   doc_2 = requests.get(url, headers=headers)
+  #   soup_2 = BeautifulSoup(doc_2.text, "html.parser")
+    
+  #   subscribe_row = soup_2.find(id="block-views-taxonomy_term_files-subscribe")
+  #   a_tags = subscribe_row.find_all("a")
+  #   strings = list(map(extract_string, a_tags))
+    
+  #   if search(strings, "Apple Podcasts Video") and search(strings, "Video RSS Feed"):
+  #     urls_having_video.append(url)
+      
+  #   print(f"{idx} / {len(urls)}")
+  
+  # print(f"urls_having_video: {len(urls_having_video)}")
+  
